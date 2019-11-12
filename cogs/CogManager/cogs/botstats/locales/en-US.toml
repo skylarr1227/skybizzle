@@ -1,0 +1,30 @@
+host_set = 'Host set. This change will only take effect after reloading this cog.'
+interval_set = 'Interval set.'
+prefix_set = 'Prefix set.'
+cmds_using_counters = 'Now using counters for command and message stats.'
+cmds_using_gauges = 'Now using gauges for command and message stats.'
+
+[help]
+  _root = 'Red statsd client'
+  [help.botstats]
+    _root = 'Bot statistics management'
+
+    host = '''Configure the statsd daemon host to send stats to
+
+    Defaults to `127.0.0.1`'''
+
+    interval = '''Configure how often to send statistics
+
+    Defaults to every 5 seconds'''
+
+    prefix = '''Configure the statistics prefix
+
+    Defaults to `bot`'''
+    counter = '''Toggle between gauges and counters for command and message stats
+
+    Using gauges may be more visually informative with statsd daemons such as netdata \
+    which track counters as blips instead of incrementing gauges, but means persistant data \
+    is dependent on the bot not being restarted.
+
+    Counters push this off to the statsd daemon by reporting every message and command use as a +1, \
+    and as such are less reliant on the bot being online for accurate persistant data.'''

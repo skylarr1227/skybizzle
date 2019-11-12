@@ -1,0 +1,39 @@
+#################################
+##    Help Docs
+
+help:
+  cog_class: Set a reminder for future you to deal with
+  root: Set a reminder
+  clear: Clear all of your set reminders
+  remove: Remove a reminder
+  list: List everything you've asked me to remind you of
+
+#################################
+##    Command Output
+
+invalid_time: The given reminder delay must be at least one minute or greater.
+reminder_set: Okay, I'll remind you of that on {date}.
+reminders_cleared: Okay, your set reminders have been cleared.
+no_set_reminders: You have no set reminders! Add some with `{prefix}remindme`.
+set_reminders: Reminders for {user}
+page: Page {current} out of {total}
+ok_then: Okay then.
+reminder_title: "Reminder #{id} \N{EM DASH} due {delta}"
+reminder_set_on: Reminder was set on
+reminder_header: Reminder
+content_too_long: That reminder is a little too long. (must be under 1000 characters)
+no_such_reminder: No such reminder exists. (use `{prefix}remindme list` for a list of reminders)
+remove_confirmation: Are you sure you want to remove this reminder?
+due_on: Reminder due on
+reminder_created: Reminder set
+will_send_on: Reminder will be sent on
+
+confirm_clear: |
+  Are you sure you want to clear all of your set reminders?
+
+  Unless you have a time machine, **this action is irreversable!**
+
+reminder_message: |
+  Hello! You asked me on {set_on} to remind you of this:
+
+  {message}

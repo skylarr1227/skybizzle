@@ -1,0 +1,29 @@
+setting_up = '''Setting up this server's muted role...
+(this may take a while if you have a lot of channels)'''
+hierarchy_disallows = "This server's role hierarchy doesn't allow you to perform this action."
+already_muted = "That member is already muted."
+member_muted = "**{member}** has been muted for {duration}."
+setup_audit_reason = "Setting up timed mute role permissions"
+requires_timedrole = "This cog requires `timedrole` to be loaded to function."
+role_name = "Muted"
+
+[help]
+  cog = "Mute users for a set amount of time"
+  command = '''Mute a user for a set amount of time.
+
+  Muted users will not be able to send messages, add new reactions to messages \
+  (they can still use existing reactions), or speak in voice channels.
+
+  Examples for duration: `1h30m`, `3d`, `1mo`. \
+  Longer form values (such as '2 hours') are also accepted, but must be wrapped \
+  in double quotes if they contain spaces.
+
+  Abbreviations: `s` for seconds, `m` for minutes, `h` for hours, `d` for days, \
+  `w` for weeks, `mo` for months, `y` for years.
+
+  `m` assumes minutes instead of months.
+
+  One month is counted as 30 days, and one year is counted as 365 days. \
+  Minimum duration for a mute is 2 minutes.
+
+  Expired mutes are checked alongside expired timed roles assigned with `[p]timedrole`.'''

@@ -1,0 +1,155 @@
+{
+    "95932766180343808": {
+        "USER": {
+            "474104220770107392": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1568589823,
+                    "robcd": 1568484980
+                }
+            },
+            "573875022578450432": {
+                "cooldowns": {
+                    "workcd": 1568958759,
+                    "crimecd": 1569965853,
+                    "robcd": 1569909922
+                },
+                "wallet": 408
+            },
+            "608817713124737035": {
+                "cooldowns": {
+                    "workcd": 1568958770,
+                    "crimecd": 1570414059,
+                    "robcd": 1570414062
+                },
+                "wallet": 71
+            },
+            "462416556853559306": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1568589838,
+                    "robcd": null
+                },
+                "wallet": 243
+            },
+            "413438573107216405": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1568597881,
+                    "robcd": null
+                },
+                "wallet": 233
+            },
+            "555535597989527573": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1568597907,
+                    "robcd": null
+                },
+                "wallet": 38
+            },
+            "427953242278854657": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1568919643,
+                    "robcd": null
+                },
+                "wallet": 92
+            },
+            "530876772770906152": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1569909942,
+                    "robcd": 1569909934
+                },
+                "wallet": 67
+            },
+            "515912642133491712": {
+                "cooldowns": {
+                    "workcd": 1568653587,
+                    "crimecd": 1568653530,
+                    "robcd": 1568653522
+                },
+                "wallet": 314
+            },
+            "446310592425361418": {
+                "cooldowns": {
+                    "workcd": 1568750167,
+                    "crimecd": null,
+                    "robcd": null
+                },
+                "wallet": 107
+            },
+            "539939853966639114": {
+                "cooldowns": {
+                    "workcd": 1568783865,
+                    "crimecd": null,
+                    "robcd": null
+                },
+                "wallet": 125
+            },
+            "347852110894989323": {
+                "cooldowns": {
+                    "workcd": 1568843820,
+                    "crimecd": 1568843834,
+                    "robcd": 1568843847
+                },
+                "wallet": 197
+            },
+            "347588059539177482": {
+                "cooldowns": {
+                    "workcd": 1568923624,
+                    "crimecd": null,
+                    "robcd": 1568920034
+                },
+                "wallet": 109
+            },
+            "302178158260781056": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": null,
+                    "robcd": 1569285679
+                },
+                "wallet": 129
+            },
+            "345644960994820096": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1569118248,
+                    "robcd": null
+                },
+                "wallet": 156
+            },
+            "525834328241078272": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1570314851,
+                    "robcd": 1570314858
+                },
+                "wallet": 208
+            },
+            "552007836192997396": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": null,
+                    "robcd": 1569364185
+                },
+                "wallet": 0
+            },
+            "597610207773851688": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": null,
+                    "robcd": 1569528987
+                }
+            },
+            "364354548032077834": {
+                "cooldowns": {
+                    "workcd": null,
+                    "crimecd": 1570314827,
+                    "robcd": null
+                }
+            }
+        }
+    }
+}

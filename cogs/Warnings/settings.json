@@ -1,0 +1,190 @@
+{
+    "5757575755": {
+        "GUILD": {
+            "356196557336346627": {
+                "allow_custom_reasons": true,
+                "reasons": {
+                    "asshole": {
+                        "points": 3,
+                        "description": "Just being a real fucking asshole"
+                    },
+                    "offensive": {
+                        "points": 2,
+                        "description": "Making sure to be as purposefully offensive as possible."
+                    },
+                    "racist": {
+                        "points": 1,
+                        "description": "Taking mildly racist straight to unpleasant/hateful."
+                    },
+                    "osbullshit": {
+                        "points": 3,
+                        "description": "Bringing any of the unpleasant reminders of MewbotOS or supporting the ideas of specific staff members from OS. **Examples: \n1) Being an alt of any of the OS staff that contributed to what it's become... a heap of garbage.\n2) Being zero or kuno\n3) Whatever else gay that might be deemed OS bullshit"
+                    },
+                    "commands": {
+                        "points": 1,
+                        "description": "repeatedly Using commands that should be used only on their respective channels due to spam etc."
+                    }
+                }
+            },
+            "535534726375669772": {
+                "allow_custom_reasons": true
+            },
+            "591691796824719390": {
+                "allow_custom_reasons": true
+            }
+        },
+        "MEMBER": {
+            "356196557336346627": {
+                "347588059539177482": {
+                    "warnings": {
+                        "622589808488874005": {
+                            "points": 1,
+                            "description": "warning people",
+                            "mod": 474104220770107392
+                        }
+                    },
+                    "total_points": 1
+                },
+                "338083404094373890": {
+                    "warnings": {
+                        "622590005428224030": {
+                            "points": 1,
+                            "description": "racist",
+                            "mod": 474104220770107392
+                        },
+                        "625806663873724436": {
+                            "points": 1,
+                            "description": "dating a goblin named Kunochi",
+                            "mod": 347588059539177482
+                        }
+                    },
+                    "total_points": 2
+                },
+                "427953242278854657": {
+                    "warnings": {
+                        "622590182436110360": {
+                            "points": 1,
+                            "description": "saying bruh",
+                            "mod": 474104220770107392
+                        }
+                    },
+                    "total_points": 1
+                },
+                "525834328241078272": {
+                    "warnings": {
+                        "625801080923750430": {
+                            "points": 1,
+                            "description": "losing against me",
+                            "mod": 347588059539177482
+                        },
+                        "626193598467014697": {
+                            "points": 1,
+                            "description": "THE GODS FROWN",
+                            "mod": 347588059539177482
+                        }
+                    },
+                    "total_points": 2
+                }
+            },
+            "535534726375669772": {
+                "462416556853559306": {
+                    "warnings": {
+                        "624716179394658345": {
+                            "points": 1,
+                            "description": "warned for not giving me his entire pokemon collection",
+                            "mod": 347588059539177482
+                        },
+                        "624870229406908437": {
+                            "points": 1,
+                            "description": "bad",
+                            "mod": 347588059539177482
+                        },
+                        "625825042625724426": {
+                            "points": 1,
+                            "description": "using @her e",
+                            "mod": 347588059539177482
+                        },
+                        "625825288886157352": {
+                            "points": 1,
+                            "description": "questioning big papa",
+                            "mod": 347588059539177482
+                        },
+                        "625825445971099660": {
+                            "points": 1,
+                            "description": "DO NOT SPEAK DURING THE TEACHERS LESSON",
+                            "mod": 347588059539177482
+                        },
+                        "627298994745245699": {
+                            "points": 1,
+                            "description": "calling someone else baby",
+                            "mod": 347588059539177482
+                        }
+                    },
+                    "total_points": 6
+                },
+                "347588059539177482": {
+                    "warnings": {
+                        "624870089744711680": {
+                            "points": 1,
+                            "description": "bro im not gonna give you all my pokes \ud83d\ude1b aalthough i did make loads of progress",
+                            "mod": 462416556853559306
+                        },
+                        "625825381378818059": {
+                            "points": 1,
+                            "description": "questioning daddy \ud83d\ude09",
+                            "mod": 462416556853559306
+                        },
+                        "627299080925741071": {
+                            "points": 1,
+                            "description": "being strawberry Jelly",
+                            "mod": 462416556853559306
+                        }
+                    },
+                    "total_points": 3
+                },
+                "338083404094373890": {
+                    "warnings": {
+                        "625795813599215658": {
+                            "points": 1,
+                            "description": "trying to make me gau",
+                            "mod": 347588059539177482
+                        },
+                        "625825610605789224": {
+                            "points": 1,
+                            "description": "DO NOT SPEAK UNLESS YOU ARE SPOKEN TO",
+                            "mod": 347588059539177482
+                        }
+                    },
+                    "total_points": 2
+                },
+                "583751544739069963": {
+                    "warnings": {
+                        "628449673249554432": {
+                            "points": 1,
+                            "description": "showdown is mobile too nerd",
+                            "mod": 347588059539177482
+                        },
+                        "628449924328980490": {
+                            "points": 1,
+                            "description": "you got a phone showdown kid",
+                            "mod": 347588059539177482
+                        }
+                    },
+                    "total_points": 2
+                }
+            },
+            "591691796824719390": {
+                "548255438999912478": {
+                    "warnings": {
+                        "627678263891984405": {
+                            "points": 1,
+                            "description": "being gay",
+                            "mod": 347588059539177482
+                        }
+                    },
+                    "total_points": 1
+                }
+            }
+        }
+    }
+}

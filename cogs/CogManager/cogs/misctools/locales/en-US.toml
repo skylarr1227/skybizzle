@@ -1,0 +1,250 @@
+toolset_info = "Toolset Info"
+no_description = "No description was provided"
+commands = "Commands"
+toolset_loaded = "Loaded {count, plural, one {toolset} other {toolsets}} {sets}"
+toolset_unloaded = "Unloaded {count, plural, one {toolset} other {toolsets}} {sets}"
+toolset_errored = "Toolset `{set}` failed to load. Check your console or logs for more details."
+toolset_already_loaded = "Toolset `{set}` is already loaded."
+toolset_already_unloaded = "Toolset `{set}` is not currently loaded."
+toolset_not_found = "No such toolset `{set}` could be found."
+loaded_toolsets = "{count, plural, one {# loaded toolset} other {# loaded toolsets}}:"
+unloaded_toolsets = "{count, plural, one {# unloaded toolset} other {# unloaded toolsets}}:"
+command_missing = "No such command `{command}` exists"
+page = "Page {current} out of {total}"
+command_conflict = "Command `{command}` from toolset **{toolset}** conflicts with an existing command from **{cog}**."
+
+[help]
+  cog = "A varied collection of small but helpful tools"
+  misctools = "Manage loaded MiscTools toolsets"
+  info = "Display info on a given toolset"
+  list = "List all available tool sets"
+  load = "Load a toolset"
+  unload = "Unload a toolset"
+
+
+[dev]
+  __description__ = "Cog development related utilities"
+
+  name_not_found = "Name not found"
+  cannot_retrieve = "I can't seem to find the source code for that command. Sorry."
+  snowflake_delta = '''**Starting snowflake:** {start_delta} \N{EM DASH} `{start_date}`
+  **Ending snowflake:** {end_delta} \N{EM DASH} `{end_date}`
+
+  **Time difference:** {difference}'''
+
+  [dev.help]
+    charinfo = """Retrieve information on characters or custom emojis
+
+    Regular characters will return their unicode name and escape sequence, while custom emojis will return their ID.
+
+    Up to 25 items can be given at once
+    """
+    snowflake = "Retrieve the time one or more IDs were created at"
+    snowflake_delta = "Get the time difference between two snowflake IDs"
+    sudo = """Run a command bypassing all checks and cooldowns
+
+    This command will only be usable if your bot is started with the `--dev` flag.
+
+    If the invoked command supports it, this will also bypass yes/no confirmation prompts.
+    """
+    rtfs = "Get the source code for a command"
+
+
+[maintenance]
+  __description__ = "Bot maintenance utilities"
+
+  cog_enabled = '\N{WARNING SIGN} Maintenance mode is currently enabled for the **{cog}** cog; please try again later.'
+  currently_enabled = '''\N{WARNING SIGN} I'm currently in maintenance mode; please try again later.'''
+  enabled = "Maintenance mode is now enabled."
+  enabled_cog = "Maintenance mode for cog {cog} is now enabled."
+  disabled = "Maintenance mode is now disabled."
+  disabled_cog = "Maintenance mode for cog {cog} is now disabled."
+  no_such_cog = "No such cog is currently loaded."
+  set_by_env = """Maintenance mode is currently enabled by the `RED_MAINTENANCE` environment variable.
+  Please unset this variable and restart your bot to disable maintenance mode."""
+  maintenance_not_enabled = 'Neither the bot nor any cogs are in maintenance mode.'
+  cogs_in_maintenance = 'The following {count, plural, one {cog is} other {# cogs are}} in maintenance mode:'
+  bot_maintenance = 'Bot-wide maintenance mode is currently {status, select, true {enabled} false {disabled}}'
+  no_message = 'No maintenance message was set'
+  message = 'Message sent on command attempt: {message}'
+
+  update_warning = '''By continuing with this action, I will execute the following command on your host machine:
+
+  ```sh
+  {command}
+  ```
+
+  Updating while the bot is running may have a chance to break your Red install, regardless of how unlikely it may be. \
+  You should consider playing it safe and updating manually.
+
+  If you wish to continue, react to this message with \N{WHITE HEAVY CHECK MARK}.'''
+  update_cancelled = "Update cancelled."
+  updating = "Updating Red... (this may take a while)"
+  updated = "Red has been updated. Please restart the bot for the updates to take effect."
+  update_fail = "Something went wrong while updating. Check your logs, and attempt an update manually."
+
+  [maintenance.help]
+    maintenance = """Manage the bot's maintenance mode
+
+    While maintenance mode is enabled, only the bot owner and co-owners will be allowed to use any bot commands.
+
+    The bot can temporarily be started in maintenance mode by specifying a `RED_MAINTENANCE` environment variable.
+
+    A maintenance mode only applies to bot commands, not events such as reactions (but does still apply to commands \
+    invoked from such events by cogs)
+    """
+    maintenance_enable = "Enable maintenance mode"
+    maintenance_disable = "Disable maintenance mode"
+    maintenance_cog = """Enable or disable maintenance mode for select cogs
+
+    Disabling maintenance mode for a single cog does not bypass a bot-wide maintenance.
+    """
+    maintenance_info = "List the maintenance status of the bot and cogs"
+
+    updatered = '''Update Red to the latest version
+
+    This command uses CLI-like flags to determine how to update Red.
+
+    **Available flags:**
+    **-m | --mongo** \N{EM DASH} Installs MongoDB config storage dependencies
+    **-p | --postgres** \N{EM DASH} Installs PostgreSQL config storage dependencies
+    **-V | --version <version>** \N{EM DASH} Specify a Red version to install
+
+    **Advanced options:**
+    **-d | --dev** \N{EM DASH} Pulls the latest changes from GitHub
+    **--docs** \N{EM DASH} Sphinx documentation library
+    **--test** \N{EM DASH} Testing related dependencies
+    **--branch <branch>** \N{EM DASH} Specify a different Git branch to use; use of this flag implies `--dev`
+    **--force** \N{EM DASH} Bypass the cache and force reinstall
+    '''
+
+
+[messagequote]
+  __description__ = "Quickly retrive one or more messages by their ID"
+
+  sent_in = "Message `{mid}` sent in {channel}:"
+  not_found = "Message ID `{mid}` was either deleted or never existed, or was sent in a channel I don't have permission to access."
+  invalid_id = "`{mid}` is not a valid message ID."
+  no_such_channel = "Either no such channel `{id}` exists, or I don't have permission to access it."
+  no_history_perms = "A channel with ID `{id}` exists, but you don't have permission to access it's history."
+  attachments = "Attachments"
+
+  help = '''Retrieve one or more messages by their ID
+
+  Messages from other servers may be retrieved by using the ID obtained from shift-clicking on \
+  `Copy ID` in the message's context menu.
+
+  You must have Read Message History permissions in the channel a message resides in to retrieve it.
+  '''
+
+
+[permbd]
+  __description__ = "Breakdown which roles give a user their permissions"
+
+  help = '''Break down the permissions for a given member
+
+  If more than three roles apply changes to a single permission, only the first three roles are shown for each change.
+
+  By default, only permissions applicable to the specified channel are shown; this can be overridden \
+  by passing `true` to the `list_all` argument (though non-applicable permissions may be mistakely shown \
+  as not granted).
+  '''
+
+  name = "Permission Breakdown"
+  subhead = "Permissions for {member}, with overwrites from {channel}"
+  not_granted = "Not granted by any roles"
+  n_more = "+{n} more"
+  final_value = 'Final resolved value \N{EM DASH} **{value, select, granted {Granted} denied {Denied}}**'
+  granted_by = 'Granted by {n, plural, one {one role} other {# roles}} \N{EM DASH} {roles}'
+
+  [permbd.overwrites]
+    granted = 'Granted by {n, plural, one {one overwrite} other {# overwrites}} for \N{EM DASH} {overwrites}'
+    denied = 'Denied by {n, plural, one {one overwrite} other {# overwrites}} for \N{EM DASH} {overwrites}'
+
+
+[ping]
+  __description__ = "Adds the bot's current latency to Discord to [p]ping"
+  help = "Get the bot's current latency to Discord"
+  ping = '\N{TABLE TENNIS PADDLE AND BALL} Pong! Current latency to Discord is {latency}'
+
+
+[stats]
+  __description__ = "Generic global bot statistics command"
+  help = "Retrieve global bot statistics"
+
+  bot_stats = "Bot Statistics"
+  channel_stats = "{text} text, {voice} voice"
+  uptime = "Uptime"
+  users = "Global Users"
+  guilds = "Total Servers"
+  channels = "Total Channels"
+  messages = "Messages Received"
+  commands_ran = "Commands Processed"
+  cogs = "Active Cogs"
+  commands = "Registered Commands"
+  cpu_usage = "CPU Utilization"
+  memory = "Memory Utilization"
+  threads = "Threads"
+
+
+[uinfo]
+  __description__ = """A fancier variation on [p]userinfo
+
+  This toolset doesn't replace [p]userinfo, but instead adds [p]user.
+  """
+
+  nickname = '\N{LABEL} Nicknamed as {nick}'
+  member_footer = "Member #{n} | User ID: {id}"
+  user_footer = "User ID: {id}"
+  account_age = "Account Age"
+  server_roles = "Server Roles"
+  joined_discord = '\N{SPIRAL CALENDAR PAD} Joined Discord {delta} on {absolute}'
+  joined_server = '\N{CLOCK FACE TWO OCLOCK} Joined server {delta} on {absolute}'
+  unknown_join_date = '''\N{CLOCK FACE TWO OCLOCK} *I don't seem to know their server join date. Sorry.*'''
+  on_mobile = '\N{MOBILE PHONE} Active on Mobile'
+  voice = '\N{SPEAKER} In voice channel {channel}'
+  nitro_boost = '\N{WHITE MEDIUM STAR} Nitro boosting this server for {delta} since {date}'
+  past_names = "Past Names"
+  past_nicks = "Past Nicknames"
+  user_not_found = "I can't seem to find the user you've specified."
+  more_roles = "{num, plural, one {# more role} other {# more roles}}"
+
+  [uinfo.role]
+    bot = '\N{ROBOT FACE} Bot'
+    bot_owner = '\N{HAMMER AND WRENCH} **Bot Owner**'
+    guild_owner = '\N{KEY} Server Owner'
+    guild_admin = '\N{HAMMER} Server Administrator'
+    guild_mod = '\N{SHIELD} Server Moderator'
+    guild_member = '\N{BUSTS IN SILHOUETTE} Server Member'
+    non_member = '\N{BUST IN SILHOUETTE} Not in server'
+
+  [uinfo.activity]
+    playing = '\N{VIDEO GAME} Playing **{name}**'
+    streaming = '\N{VIDEO CAMERA} Streaming [**{name}**]({url})'
+    watching = '\N{FILM PROJECTOR} Watching **{name}**'
+    listening = '\N{MUSICAL NOTE} Listening to **{name}**'
+    spotify = '\N{MUSICAL NOTE} Listening to **{title}** by **{artists}** on **Spotify**'
+
+  [uinfo.status]
+    online = '\N{HIGH VOLTAGE SIGN} Online'
+    dnd = '\N{BELL WITH CANCELLATION STROKE} Do Not Disturb'
+    idle = '\N{FLAG IN HOLE} Idle'
+    offline = '\N{SLEEPING SYMBOL} Offline'
+    unknown = '\N{BLACK QUESTION MARK ORNAMENT} Unknown status'
+
+  [uinfo.help]
+    member = "Get info on a specified member"
+    global = """Get info on a user who isn't in the current server
+
+    You must have at least one server in common with the specified user to retrieve info on them."""
+
+
+[xkcd]
+  __description__ = "Retrieve comics from xkcd.com"
+
+  invalid_comic = "Comic #{id} doesn't exist."
+  description = "{date} | [explain xkcd]({explain}) | [full image]({image})"
+
+  [xkcd.help]
+    root = "Get the latest or a specific xkcd comic"
+    random = "Get a random xkcd comic"

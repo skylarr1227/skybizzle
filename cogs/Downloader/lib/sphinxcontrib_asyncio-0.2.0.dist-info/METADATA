@@ -1,0 +1,42 @@
+Metadata-Version: 2.0
+Name: sphinxcontrib-asyncio
+Version: 0.2.0
+Summary: sphinx extension to support coroutines in markup
+Home-page: https://github.com/aio-libs/sphinxcontrib-asyncio
+Author: Andrew Svetlov
+Author-email: andrew.svetlov@gmail.com
+License: Apache 2
+Platform: UNKNOWN
+Classifier: Environment :: Plugins
+Classifier: Framework :: Sphinx :: Extension
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Documentation :: Sphinx
+Classifier: Topic :: Software Development :: Documentation
+Requires-Dist: sphinx
+
+sphinxcontrib-asyncio
+=====================
+
+Sphinx extension for adding asyncio-specific markups
+
+CHANGES
+=======
+
+0.2.0 (2016-04-15)
+------------------
+
+* Added autodoc support #1
+
+
+0.1.0 (2016-03-07)
+-------------------
+
+* Initial release
+

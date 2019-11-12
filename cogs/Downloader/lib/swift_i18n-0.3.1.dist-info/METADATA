@@ -1,0 +1,45 @@
+Metadata-Version: 2.0
+Name: swift-i18n
+Version: 0.3.1
+Summary: Simple yet configurable translator based on ICU message formatting
+Home-page: https://gitlab.com/odinair/swift_i18n
+Author: odinair
+Author-email: hi@odinair.xyz
+License: MIT
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown; charset=UTF-8; variant=GFM
+Provides-Extra: docs
+Provides-Extra: style
+Provides-Extra: test
+Requires-Dist: babel
+Requires-Dist: parsimonious
+Requires-Dist: pyseeyou
+Requires-Dist: toml
+Provides-Extra: docs
+Requires-Dist: sphinx; extra == 'docs'
+Provides-Extra: style
+Requires-Dist: black (==19.3b0); extra == 'style'
+Provides-Extra: test
+Requires-Dist: pylint; extra == 'test'
+
+# swift_i18n
+
+Simple yet configurable translator based on ICU message formatting.
+
+This requires at least Python 3.7.
+
+## Basic Usage
+
+```python
+from swift_i18n import Translator
+
+translate = Translator(__file__)
+
+# This assumes you have a `locales/en-US.toml` file in the current scripts parent directory containing
+# the following line:
+#  hello = 'Hello, {name}'
+print(translate('hello', name='world'))  # This should result in 'Hello, world'
+```
+
+

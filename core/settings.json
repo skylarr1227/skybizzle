@@ -1,0 +1,299 @@
+{
+    "0": {
+        "CUSTOM_GROUPS": {
+            "CogManager": {
+                "2938473984732": {}
+            },
+            "Bank": {
+                "384734293238749": {}
+            },
+            "Core": {
+                "0": {
+                    "CUSTOM_GROUPS": 2
+                }
+            },
+            "ModLog": {
+                "1354799444": {
+                    "CASETYPES": 1,
+                    "CASES": 2
+                }
+            },
+            "Admin": {
+                "8237492837454039": {}
+            },
+            "Alias": {
+                "8927348724": {}
+            },
+            "Downloader": {
+                "998240343": {}
+            },
+            "Raffle": {
+                "5074395005": {}
+            },
+            "Permissions": {
+                "78631113035100160": {
+                    "COG": 1,
+                    "COMMAND": 1
+                }
+            },
+            "Reports": {
+                "78631113035100160": {
+                    "REPORT": 2
+                }
+            },
+            "Turn": {
+                "2113674295": {}
+            },
+            "Clocks": {
+                "2113674295": {}
+            },
+            "RoleManagement": {
+                "78631113035100160": {
+                    "REACTROLE": 2
+                }
+            },
+            "Autorole": {
+                "45463543548": {}
+            },
+            "ErrorLogs": {
+                "3500395711": {}
+            },
+            "NestedCommands": {
+                "36649125": {}
+            },
+            "EmbedMaker": {
+                "78631113035100160": {
+                    "EMBED": 2
+                }
+            },
+            "InstantCommands": {
+                "260": {}
+            },
+            "WebServer": {
+                "3723456754567": {}
+            },
+            "swift_libs": {
+                "413574221325": {}
+            },
+            "Quotes": {
+                "441356724": {}
+            },
+            "RemindMe": {
+                "2424356456": {}
+            },
+            "ColourRole": {
+                "2143463442": {}
+            },
+            "MiscTools": {
+                "421412412": {}
+            },
+            "BotStats": {
+                "1278435453": {}
+            },
+            "Rift": {
+                "2113674295": {}
+            },
+            "AddImage": {
+                "16446735546": {}
+            },
+            "Leveler": {
+                "78008101945374987542543513523680608657": {}
+            },
+            "RNDActivity": {
+                "2042511098": {}
+            },
+            "PhotoSync": {
+                "5155131962639501806960131396444130342877251382834976335700036758594288654115832971990270330915833149378235417911406813698660285259704726965084439921710577": {}
+            },
+            "Memento": {
+                "10344305391379446508291183538129972663359880369485978584664925047690355077705062759995549736723567293268865922479030733928893392134773881852906991199979837": {}
+            },
+            "Mod": {
+                "4961522000": {}
+            },
+            "Trivia": {
+                "3015763027": {}
+            },
+            "StealEmoji": {
+                "11511610197108101109111106105": {}
+            },
+            "Race": {
+                "5074395009": {}
+            },
+            "Shop": {
+                "5074395003": {}
+            },
+            "Casino": {
+                "5074395001": {}
+            },
+            "Economy": {
+                "1256844281": {}
+            },
+            "Chatter": {
+                "6710497116116101114": {}
+            },
+            "Audio": {
+                "2711759130": {
+                    "EQUALIZER": 1
+                }
+            },
+            "UserProfile": {
+                "1099710897114110101": {}
+            },
+            "Duel": {
+                "134621854878007297": {}
+            },
+            "Adventure": {
+                "2710801001": {}
+            },
+            "EconomyTrickle": {
+                "78631113035100160": {}
+            },
+            "AdventureAlert": {
+                "154497072148643840": {}
+            },
+            "CCRole": {
+                "9999114111108101": {}
+            },
+            "Evolution": {
+                "473541068378341376": {}
+            },
+            "Sketch": {
+                "3715378133574": {}
+            },
+            "Filter": {
+                "4766951341": {}
+            },
+            "UpdateChecker": {
+                "473541068378341376": {}
+            },
+            "Account": {
+                "42": {}
+            },
+            "Highlight": {
+                "1398467138476": {}
+            },
+            "Warnings": {
+                "5757575755": {}
+            },
+            "Suggestion": {
+                "2115656421364": {
+                    "SUGGESTION": 2
+                }
+            },
+            "Lock": {
+                "36546565165464": {}
+            },
+            "ForceMention": {
+                "9811198108111121": {}
+            },
+            "Modmail": {
+                "1398467138476": {}
+            },
+            "Unbelievaboat": {
+                "95932766180343808": {}
+            },
+            "PartyGames": {
+                "145519400223506432": {}
+            },
+            "Away": {
+                "8423491260": {}
+            },
+            "EmbedInvite": {
+                "376564057517457408": {}
+            },
+            "CustomCommands": {
+                "414589031223512": {}
+            },
+            "Deleter": {
+                "473541068378341376": {}
+            },
+            "RPG": {
+                "134621854878007299": {}
+            },
+            "ExtendedModLog": {
+                "154457677895": {}
+            }
+        },
+        "GLOBAL": {
+            "schema_version": 1,
+            "token": "NTQ4MjU1NDM4OTk5OTEyNDc4.XXxLbQ.OxbU8tZvvOS1l_mcE9-GuYblBzg",
+            "prefix": [
+                "+"
+            ],
+            "packages": [
+                "admin",
+                "highlight",
+                "downloader",
+                "warnings",
+                "suggestion",
+                "lock",
+                "economy",
+                "alias",
+                "bank",
+                "forcemention",
+                "mod",
+                "modmail",
+                "nestedcommands",
+                "general",
+                "nsfw",
+                "moreutils",
+                "unbelievaboat",
+                "partygames",
+                "grammar",
+                "away",
+                "bash",
+                "embedinvite",
+                "ccrole",
+                "permissions",
+                "memento",
+                "customcom",
+                "trivia",
+                "deleter",
+                "serverinfo",
+                "cleanup",
+                "leveler",
+                "targeter",
+                "NetworkTool",
+                "raffle",
+                "race",
+                "botstats",
+                "casino",
+                "adminutils",
+                "massdm",
+                "martools",
+                "autorole",
+                "embedmaker",
+                "commandchart",
+                "rolemanagement",
+                "skyembed",
+                "adventure",
+                "modlog",
+                "extendedmodlog"
+            ],
+            "disabled_commands": [
+                "info"
+            ],
+            "blacklist": [
+                590322888133836801,
+                583751544739069963
+            ],
+            "whitelist": [],
+            "extra_owner_destinations": [
+                605197173365407746
+            ],
+            "fuzzy": true
+        },
+        "GUILD": {
+            "535111954021351425": {
+                "fuzzy": true
+            },
+            "526406561653063710": {
+                "fuzzy": true
+            },
+            "552629136863133706": {
+                "fuzzy": true
+            }
+        }
+    }
+}

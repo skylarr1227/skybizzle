@@ -1,0 +1,77 @@
+[permissions]
+  add_reactions = "Add Reactions"
+  administrator = "Administrator"
+  attach_files = "Attach Files"
+  ban_members = "Ban Members"
+  change_nickname = "Change Nickname"
+  connect = "Connect"
+  create_instant_invite = "Create Instant Invite"
+  deafen_members = "Deafen Members"
+  embed_links = "Embed Links"
+  external_emojis = "External Emojis"
+  kick_members = "Kick Members"
+  manage_channels = "Manage Channels"
+  manage_emojis = "Manage Emojis"
+  manage_guild = "Manage Server"
+  manage_messages = "Manage Messages"
+  manage_nicknames = "Manage Nicknames"
+  manage_roles = "Manage Roles"
+  manage_webhooks = "Manage Webhooks"
+  mention_everyone = "Mention Everyone"
+  move_members = "Move Members"
+  mute_members = "Mute Members"
+  read_message_history = "Read Message History"
+  read_messages = "Read Messages"
+  send_messages = "Send Messages"
+  send_tts_messages = "Send TTS Messages"
+  speak = "Speak"
+  use_voice_activation = "Use Voice Activation"
+  view_audit_log = "View Audit Log"
+  priority_speaker = "Priority Speaker"
+  stream = "Go Live"
+
+[formatting]
+  jump_to_message = "Jump to message"
+
+[checks]
+  import_failed = "{n, plural, one {A required library} other {# required libraries}} could not be imported: {libs}. Check your logs for more information."
+  sl_outdated = 'Your bot is running an outdated version of the shared library this cog depends on (expected `{expected}`, running `{current}`). This can be resolved by running `[p]swiftlibs reload`.'
+  red_outdated = 'Expected at least Red version {min}, but your bot is running version {current}'
+  red_too_new = 'Expected at most Red version {max}, but your bot is running version {current}'
+  red_outdated_or_new = 'Expected Red version between {min} and {max}, but your bot is running version {current}'
+  red_not_exact = 'Expected exactly Red version {min}, but your bot is running version {current}'
+
+[time]
+  min_duration = "Given time duration does not meet nor exceed minimum duration of {delta}"
+  max_duration = "Given time duration exceeds maximum duration of {delta}"
+  fail_parse_delta = "Failed to parse `{input}` into any sort of meaningful time delta"
+
+[util_cog]
+  reload_confirm = '''The following cogs must be reloaded for this to take effect: {cogs}
+
+  If you'd like me to reload these cogs for you, react to this message with \N{WHITE HEAVY CHECK MARK}.
+  '''
+  reload_manual = "The following cogs must be reloaded for this to take effect: {cogs}"
+  dumped = "Dumped {count} modules from the bot's cache."
+
+  [util_cog.help]
+    cog = '''Internal swift_libs utility cog
+
+    You won't find this cog to be all too useful on its own.
+    '''
+
+    [util_cog.help.swiftlibs]
+      _root = '''Internal Swift-Cogs shared library command group
+
+      Most commands in this group are only usable if your bot is started with the `--dev` and/or `--debug` flags
+
+      You'll very likely only find the commands here useful if you've been instructed to use them.
+      '''
+      dump = "Dump modules from the bot's module cache"
+      reload = '''Reload swift_libs and all dependent cogs
+
+      You can pass `true` to the `skip_confirmation` argument to skip the cog reload confirmation prompt.
+
+      Any cogs that rely on swift_libs for runtime caching will lose all cached data as a result of using this command.
+      '''
+      info = 'Return useful bot diagnostics for debugging'

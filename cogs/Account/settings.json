@@ -1,0 +1,25 @@
+{
+    "42": {
+        "GLOBAL": {},
+        "GUILD": {
+            "591691796824719390": {
+                "db": [
+                    474104220770107392
+                ]
+            }
+        },
+        "MEMBER": {
+            "591691796824719390": {
+                "474104220770107392": {
+                    "About": "Only the best",
+                    "Age": "29",
+                    "Email": "skylarr1227@gmail.com",
+                    "Site": "http://pokepla.net",
+                    "Gender": "<a:emoji_53:595724838790758441>",
+                    "Job": "Lvl3 Tech Support",
+                    "Other": "<a:firework:610290433725169703> <a:firework2:610290337734197252> <a:firework:610290433725169703>"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,522 @@
+{
+    "1354799444": {
+        "CASES": {
+            "356196557336346627": {
+                "1": {
+                    "case_number": 1,
+                    "action_type": "warning",
+                    "guild": 356196557336346627,
+                    "created_at": 1568521777,
+                    "user": 347588059539177482,
+                    "moderator": 474104220770107392,
+                    "reason": "warning people\nPoints: 1\n\nUse `+unwarn 347588059539177482 622589808488874005` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "2": {
+                    "case_number": 2,
+                    "action_type": "warning",
+                    "guild": 356196557336346627,
+                    "created_at": 1568521824,
+                    "user": 338083404094373890,
+                    "moderator": 474104220770107392,
+                    "reason": "racist\nPoints: 1\n\nUse `+unwarn 338083404094373890 622590005428224030` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "3": {
+                    "case_number": 3,
+                    "action_type": "warning",
+                    "guild": 356196557336346627,
+                    "created_at": 1568521866,
+                    "user": 427953242278854657,
+                    "moderator": 474104220770107392,
+                    "reason": "saying bruh\nPoints: 1\n\nUse `+unwarn 427953242278854657 622590182436110360` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "4": {
+                    "case_number": 4,
+                    "action_type": "warning",
+                    "guild": 356196557336346627,
+                    "created_at": 1569287404,
+                    "user": 525834328241078272,
+                    "moderator": 347588059539177482,
+                    "reason": "losing against me\nPoints: 1\n\nUse `+unwarn 525834328241078272 625801080923750430` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "5": {
+                    "case_number": 5,
+                    "action_type": "warning",
+                    "guild": 356196557336346627,
+                    "created_at": 1569288735,
+                    "user": 338083404094373890,
+                    "moderator": 347588059539177482,
+                    "reason": "dating a goblin named Kunochi\nPoints: 1\n\nUse `+unwarn 338083404094373890 625806663873724436` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "6": {
+                    "case_number": 6,
+                    "action_type": "warning",
+                    "guild": 356196557336346627,
+                    "created_at": 1569380987,
+                    "user": 525834328241078272,
+                    "moderator": 347588059539177482,
+                    "reason": "THE GODS FROWN\nPoints: 1\n\nUse `+unwarn 525834328241078272 626193598467014697` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "7": {
+                    "case_number": 7,
+                    "action_type": "smute",
+                    "guild": 356196557336346627,
+                    "created_at": 1569381043,
+                    "user": 530876772770906152,
+                    "moderator": 347588059539177482,
+                    "reason": null,
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "8": {
+                    "case_number": 8,
+                    "action_type": "sunmute",
+                    "guild": 356196557336346627,
+                    "created_at": 1569381079,
+                    "user": 608817713124737035,
+                    "moderator": 347588059539177482,
+                    "reason": null,
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "9": {
+                    "case_number": 9,
+                    "action_type": "kick",
+                    "guild": 356196557336346627,
+                    "created_at": 1569389584,
+                    "user": 530876772770906152,
+                    "moderator": 347588059539177482,
+                    "reason": null,
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "10": {
+                    "case_number": 10,
+                    "action_type": "smute",
+                    "guild": 356196557336346627,
+                    "created_at": 1569469791,
+                    "user": 530876772770906152,
+                    "moderator": 347588059539177482,
+                    "reason": null,
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "11": {
+                    "case_number": 11,
+                    "action_type": "sunmute",
+                    "guild": 356196557336346627,
+                    "created_at": 1569469825,
+                    "user": 530876772770906152,
+                    "moderator": 347588059539177482,
+                    "reason": null,
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "12": {
+                    "case_number": 12,
+                    "action_type": "ban",
+                    "guild": 356196557336346627,
+                    "created_at": 1570064925,
+                    "user": 555192522172006401,
+                    "moderator": 474104220770107392,
+                    "reason": null,
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                }
+            },
+            "535534726375669772": {
+                "1": {
+                    "case_number": 1,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569028743,
+                    "user": 462416556853559306,
+                    "moderator": 347588059539177482,
+                    "reason": "warned for not giving me his entire pokemon collection\nPoints: 1\n\nUse `+unwarn 462416556853559306 624716179394658345` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "2": {
+                    "case_number": 2,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569065438,
+                    "user": 347588059539177482,
+                    "moderator": 462416556853559306,
+                    "reason": "bro im not gonna give you all my pokes \ud83d\ude1b aalthough i did make loads of progress\nPoints: 1\n\nUse `+unwarn 347588059539177482 624870089744711680` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "3": {
+                    "case_number": 3,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569065472,
+                    "user": 462416556853559306,
+                    "moderator": 347588059539177482,
+                    "reason": "bad\nPoints: 1\n\nUse `+unwarn 462416556853559306 624870229406908437` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "4": {
+                    "case_number": 4,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569286148,
+                    "user": 338083404094373890,
+                    "moderator": 347588059539177482,
+                    "reason": "trying to make me gau\nPoints: 1\n\nUse `+unwarn 338083404094373890 625795813599215658` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "5": {
+                    "case_number": 5,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569293117,
+                    "user": 462416556853559306,
+                    "moderator": 347588059539177482,
+                    "reason": "using @her e\nPoints: 1\n\nUse `+unwarn 462416556853559306 625825042625724426` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "6": {
+                    "case_number": 6,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569293176,
+                    "user": 462416556853559306,
+                    "moderator": 347588059539177482,
+                    "reason": "questioning big papa\nPoints: 1\n\nUse `+unwarn 462416556853559306 625825288886157352` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "7": {
+                    "case_number": 7,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569293198,
+                    "user": 347588059539177482,
+                    "moderator": 462416556853559306,
+                    "reason": "questioning daddy \ud83d\ude09\nPoints: 1\n\nUse `+unwarn 347588059539177482 625825381378818059` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "8": {
+                    "case_number": 8,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569293213,
+                    "user": 462416556853559306,
+                    "moderator": 347588059539177482,
+                    "reason": "DO NOT SPEAK DURING THE TEACHERS LESSON\nPoints: 1\n\nUse `+unwarn 462416556853559306 625825445971099660` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "9": {
+                    "case_number": 9,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569293252,
+                    "user": 338083404094373890,
+                    "moderator": 347588059539177482,
+                    "reason": "DO NOT SPEAK UNLESS YOU ARE SPOKEN TO\nPoints: 1\n\nUse `+unwarn 338083404094373890 625825610605789224` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "10": {
+                    "case_number": 10,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569644534,
+                    "user": 462416556853559306,
+                    "moderator": 347588059539177482,
+                    "reason": "calling someone else baby\nPoints: 1\n\nUse `+unwarn 462416556853559306 627298994745245699` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "11": {
+                    "case_number": 11,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569644555,
+                    "user": 347588059539177482,
+                    "moderator": 462416556853559306,
+                    "reason": "being strawberry Jelly\nPoints: 1\n\nUse `+unwarn 347588059539177482 627299080925741071` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "12": {
+                    "case_number": 12,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569918878,
+                    "user": 583751544739069963,
+                    "moderator": 347588059539177482,
+                    "reason": "showdown is mobile too nerd\nPoints: 1\n\nUse `+unwarn 583751544739069963 628449673249554432` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "13": {
+                    "case_number": 13,
+                    "action_type": "warning",
+                    "guild": 535534726375669772,
+                    "created_at": 1569918937,
+                    "user": 583751544739069963,
+                    "moderator": 347588059539177482,
+                    "reason": "you got a phone showdown kid\nPoints: 1\n\nUse `+unwarn 583751544739069963 628449924328980490` to remove this warning.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                }
+            },
+            "444994496191529001": {
+                "1": {
+                    "case_number": 1,
+                    "action_type": "ban",
+                    "guild": 444994496191529001,
+                    "created_at": 1569211396,
+                    "user": 588486832543498258,
+                    "moderator": 474104220770107392,
+                    "reason": "fuck off idiot.",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "2": {
+                    "case_number": 2,
+                    "action_type": "ban",
+                    "guild": 444994496191529001,
+                    "created_at": 1569211443,
+                    "user": 589475204636475392,
+                    "moderator": 474104220770107392,
+                    "reason": "fuck off even more idiot",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                },
+                "3": {
+                    "case_number": 3,
+                    "action_type": "ban",
+                    "guild": 444994496191529001,
+                    "created_at": 1569211476,
+                    "user": 591113230173208576,
+                    "moderator": 474104220770107392,
+                    "reason": "fuck off so much",
+                    "until": null,
+                    "channel": null,
+                    "amended_by": null,
+                    "modified_at": null,
+                    "message": null
+                }
+            }
+        },
+        "GLOBAL": {
+            "schema_version": 2
+        },
+        "CASETYPES": {
+            "ban": {
+                "audit_type": "ban",
+                "case_str": "Ban",
+                "default_setting": true,
+                "image": "\ud83d\udd28"
+            },
+            "kick": {
+                "audit_type": "kick",
+                "case_str": "Kick",
+                "default_setting": true,
+                "image": "\ud83d\udc62"
+            },
+            "hackban": {
+                "audit_type": "ban",
+                "case_str": "Hackban",
+                "default_setting": true,
+                "image": "\ud83d\udc64\ud83d\udd28"
+            },
+            "tempban": {
+                "audit_type": "ban",
+                "case_str": "Tempban",
+                "default_setting": true,
+                "image": "\u23f0\ud83d\udd28"
+            },
+            "softban": {
+                "audit_type": "ban",
+                "case_str": "Softban",
+                "default_setting": true,
+                "image": "\ud83d\udca8\ud83d\udd28"
+            },
+            "unban": {
+                "audit_type": "unban",
+                "case_str": "Unban",
+                "default_setting": true,
+                "image": "\ud83d\udd4a"
+            },
+            "voiceban": {
+                "audit_type": "member_update",
+                "case_str": "Voice Ban",
+                "default_setting": true,
+                "image": "\ud83d\udd07"
+            },
+            "voiceunban": {
+                "audit_type": "member_update",
+                "case_str": "Voice Unban",
+                "default_setting": true,
+                "image": "\ud83d\udd08"
+            },
+            "vmute": {
+                "audit_type": "overwrite_update",
+                "case_str": "Voice Mute",
+                "default_setting": false,
+                "image": "\ud83d\udd07"
+            },
+            "cmute": {
+                "audit_type": "overwrite_update",
+                "case_str": "Channel Mute",
+                "default_setting": false,
+                "image": "\ud83d\udd07"
+            },
+            "smute": {
+                "audit_type": "overwrite_update",
+                "case_str": "Server Mute",
+                "default_setting": true,
+                "image": "\ud83d\udd07"
+            },
+            "vunmute": {
+                "audit_type": "overwrite_update",
+                "case_str": "Voice Unmute",
+                "default_setting": false,
+                "image": "\ud83d\udd08"
+            },
+            "cunmute": {
+                "audit_type": "overwrite_update",
+                "case_str": "Channel Unmute",
+                "default_setting": false,
+                "image": "\ud83d\udd08"
+            },
+            "sunmute": {
+                "audit_type": "overwrite_update",
+                "case_str": "Server Unmute",
+                "default_setting": true,
+                "image": "\ud83d\udd08"
+            },
+            "vkick": {
+                "audit_type": null,
+                "case_str": "Voice Kick",
+                "default_setting": false,
+                "image": "\ud83d\udd07"
+            },
+            "filterban": {
+                "audit_type": "ban",
+                "case_str": "Filter ban",
+                "default_setting": false,
+                "image": ":filing_cabinet: :hammer:"
+            },
+            "warning": {
+                "default_setting": true,
+                "image": "\u26a0",
+                "case_str": "Warning",
+                "audit_type": null
+            },
+            "unwarned": {
+                "default_setting": true,
+                "image": "\u26a0",
+                "case_str": "Unwarned",
+                "audit_type": null
+            }
+        },
+        "GUILD": {
+            "552629136863133706": {
+                "mod_log": 630784591136948262
+            }
+        }
+    }
+}

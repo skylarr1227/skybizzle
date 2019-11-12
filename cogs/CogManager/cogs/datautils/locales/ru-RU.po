@@ -1,0 +1,322 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-05-14 12:22+0400\n"
+"PO-Revision-Date: 2019-05-14 12:23+0400\n"
+"Last-Translator: Максим Невзоров\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 2.2\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+msgid "%d.%m.%Y %H:%M:%S %Z"
+msgstr ""
+
+msgid "Get info about any Discord's user by ID"
+msgstr "Получить информацию о любом пользователе Discord по ID"
+
+msgid "Discord user with ID `{}` not found"
+msgstr "Пользователь Discord с ID `{}` не найден"
+
+msgid "I was unable to get data about user with ID `{}`. Try again later"
+msgstr ""
+"Я не смог получить информацию о пользователе с ID `{}`. Попробуйте позже"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Bot?"
+msgstr "Бот?"
+
+msgid "Mention"
+msgstr "Упоминание"
+
+msgid "Default avatar"
+msgstr "Стандартный аватар"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "Created at"
+msgstr "Создан"
+
+msgid "Information on a user"
+msgstr "Информация о пользователе"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Client"
+msgstr "Клиент"
+
+msgid "Joined server"
+msgstr "Присоединился к серверу"
+
+msgid "Has existed since"
+msgstr "Существует с"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Server permissions"
+msgstr "Серверные права"
+
+msgid "Roles"
+msgstr "Роли"
+
+msgid "Shows server information"
+msgstr "Показывает информацию о сервере"
+
+msgid "Failed to get server with provided ID"
+msgstr "Невозможно получить сервер с предоставленным ID"
+
+msgid "Server info"
+msgstr "Информация о сервере"
+
+msgid "Server ID"
+msgstr "ID сервера"
+
+msgid "Region"
+msgstr "Регион"
+
+msgid "Existed since"
+msgstr "Существует с"
+
+msgid "Owner"
+msgstr "Владелец"
+
+msgid "AFK Timeout and Channel"
+msgstr "АФК тайм-аут и канал"
+
+msgid "{} min in {}"
+msgstr "{} минут в {}"
+
+msgid "New member messages channel"
+msgstr "Канал для сообщений о новых участниках"
+
+msgid "Verification level"
+msgstr "Уровень проверки"
+
+msgid "None"
+msgstr "Отсутствует"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "(╯°□°）╯︵ ┻━┻"
+msgstr ""
+
+msgid "┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻"
+msgstr ""
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Explicit content filter"
+msgstr "Фильтр откровенного содержимого"
+
+msgid "Don't scan any messages."
+msgstr "Не сканировать никакие сообщения."
+
+msgid "Scan messages from members without a role."
+msgstr "Сканировать сообщения участников без роли."
+
+msgid "Scan messages sent by all members."
+msgstr "Сканировать сообщения от всех участников."
+
+msgid "Default notifications"
+msgstr "Стандартные уведомления"
+
+msgid "All messages"
+msgstr "Все сообщения"
+
+msgid "Only @mentions"
+msgstr "Только для @упоминаний"
+
+msgid "2FA admins"
+msgstr "Двухфакторная аутентификация"
+
+msgid "Member Count"
+msgstr "Количество участников"
+
+msgid "Role Count"
+msgstr "Количество ролей"
+
+msgid "Channel Count"
+msgstr "Количество каналов"
+
+msgid "VIP Voice Regions"
+msgstr "VIP регионы голосовых каналов"
+
+msgid "Vanity URL"
+msgstr "Персональный URL"
+
+msgid "Verified"
+msgstr "Подтверждён"
+
+msgid "Extended emoji limit"
+msgstr "Расширенный лимит emoji"
+
+msgid "Invite Splash"
+msgstr "Фон приглашения"
+
+msgid "Banner"
+msgstr "Баннер"
+
+msgid "Get bans from server by id"
+msgstr "Получить баны сервера по ID"
+
+msgid "I need permission \"Ban Members\" to access banned members on server"
+msgstr ""
+"Мне необходимы права \"Банить участников\" для доступа к заблокированным "
+"пользователям на сервере"
+
+msgid "Banlist is empty!"
+msgstr "Список банов пуст!"
+
+msgid "Get invites from server by id"
+msgstr "Получить приглашения сервера по ID"
+
+msgid "I need permission \"Manage Server\" to access list of invites on server"
+msgstr ""
+"Мне необходимы права \"Управление сервером\" для доступа к списку "
+"приглашений на сервере"
+
+msgid "There is no invites for this server"
+msgstr "На данном сервере нет приглашений"
+
+msgid "Get info about channel"
+msgstr "Получить информацию о канале"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Not in category"
+msgstr "Вне категории"
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Users"
+msgstr "Пользователей"
+
+msgid "Changed roles permissions"
+msgstr "Изменённые настройки прав"
+
+msgid "Not set"
+msgstr "Не настроено"
+
+msgid "Slowmode delay"
+msgstr "Задержка сообщений"
+
+msgid "{} seconds"
+msgstr "{} секунд"
+
+msgid "NSFW"
+msgstr ""
+
+msgid "Webhooks count"
+msgstr "Количество вебхуков"
+
+msgid "Bitrate"
+msgstr "Битрейт"
+
+msgid "{}kbps"
+msgstr ""
+
+msgid "Get all channels on server"
+msgstr "Получить список каналов на сервере"
+
+msgid "No categories"
+msgstr "Нет категорий"
+
+msgid "No text channels"
+msgstr "Нет текстовых каналов"
+
+msgid "No voice channels"
+msgstr "Нет голосовых каналов"
+
+msgid "Channels list"
+msgstr "Список каналов"
+
+msgid "Categories:"
+msgstr "Категории:"
+
+msgid "Text channels:"
+msgstr "Текстовые каналы:"
+
+msgid "Voice channels:"
+msgstr "Голосовые каналы:"
+
+msgid ""
+"Total count of channels: {} • Categories: {} • Text Channels: {} • Voice "
+"Channels: {}"
+msgstr ""
+"Всего каналов: {} • Категорий: {} • Текстовых каналов: {} • Голосовых "
+"каналов: {}"
+
+msgid "Get info about role"
+msgstr "Получить информацию о роли"
+
+msgid "Permissions"
+msgstr "Права"
+
+msgid "Hoist"
+msgstr "Показывать отдельно"
+
+msgid "Members"
+msgstr "Участников"
+
+msgid "Managed"
+msgstr "Интеграция"
+
+msgid "Mentionable"
+msgstr "Упоминаемая"
+
+msgid "Get list of members that has provided role"
+msgstr "Получить список пользователей, имеющих указанную роль"
+
+msgid "There is no members in this role"
+msgstr "Нет пользователей с этой ролью"
+
+msgid "Page {}/{}"
+msgstr "Страница {}/{}"
+
+msgid "Get all roles on server"
+msgstr "Получить все роли на сервере"
+
+msgid "Check user's permission for current or provided channel"
+msgstr "Проверить права пользователя в текущем или указанном канале"
+
+msgid "Get info about emoji"
+msgstr "Получить информацию о эмодзи"
+
+msgid "Animated"
+msgstr "Анимированная"
+
+msgid "\":\" required"
+msgstr "Требует \":\""
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Custom emoji"
+msgstr "Серверная эмодзи"
+
+msgid "Unicode emoji"
+msgstr "Эмодзи из Юникода"

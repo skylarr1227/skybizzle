@@ -1,0 +1,105 @@
+################################
+##    For Translators
+
+# Any lines starting with # are comments and can be safely ignored when translating.
+
+# To create a new translation, copy this file to a new file named as the desired locale.
+# For example, to translate to Spanish, copy this file as `es-ES.yml`, and edit the
+# fields below.
+
+# Any missing fields in your new translation file will be filled in from the default
+# translation locale file.
+
+#################################
+##    Help Docs
+
+help:
+  cog_class: Randomly set an activity status on a set interval
+  root: |
+    Manage random statuses
+
+    Available status string placeholders:
+
+    {placeholders}
+
+    The servers that a shard contains will be used to parse a status, instead of every server the bot is in.
+
+    Any invalid placeholders will cause the status to be ignored.
+
+  delay: |
+    Set the amount of time required to pass to change the bot's playing status
+
+    The duration can be formatted in any of the following ways:
+
+    \N{BULLET} `5m`
+    \N{BULLET} `1h3.5m`
+    \N{BULLET} `5 minutes`
+    \N{BULLET} `1 hour 3.5 minutes`
+
+    Minimum duration between changes is 5 minutes. Default delay is every 10 minutes.
+
+  remove: |
+    Remove one or more statuses by their IDs
+
+    You can retrieve the ID for a status with [p]rndactivity list
+
+  add: |
+    Add a random status
+
+    `game_type` may be either `playing`, `listening`, `watching`, or `streaming <twitch channel url>`. Defaults to `playing`.
+
+  parse: Attempt to parse a given status string
+  list: Lists all random statuses
+  clear: Clears all set statuses
+
+#################################
+##    Command Output
+
+delay_set: Set time between status changes to {duration}. This change will take effect after the next status change.
+
+parse_result: |
+  \N{INBOX TRAY} **Input:** {input}
+  \N{OUTBOX TRAY} **Result:** {result}
+
+clear_confirm:
+  one: |
+    Are you sure you want to clear {amount} status?
+
+    **Unless you have a time machine, this action is irreversible!**
+  few: |
+    Are you sure you want to clear {amount} statuses?
+
+    **Unless you have a time machine, this action is irreversible!**
+
+clear_success:
+  one: Successfully removed {amount} status string.
+  few: Successfully removed {amount} status strings.
+
+parse_fail_invalid_placeholder: Parsing that status failed \N{EM DASH} {placeholder} is not a valid placeholder
+added_status: Added status **#{id}** successfully.
+non_existant_status: No status with the ID `{id}` exists.
+status_removed: Removed status **#{id}** (`{status}`) successfully.
+no_setup_statuses: I have no statuses setup yet! Use `{prefix}rndactivity add` to add some!
+ok_then: Okay then.
+no_stream_specified: An activity type of `streaming` was specified, but no Twitch channel URL was provided.
+
+game_type:
+  - Playing
+  - Streaming
+  - Listening to
+  - Watching
+
+#################################
+##    Placeholders
+
+placeholders:
+  servers: The amount of servers the bot is in
+  shard: Current server shard
+  shards: Total amount of shards
+  playing_music: Total amount of servers currently playing music
+  members: How many members are in all servers
+  users: Total amount of unique members
+  channels: Total amount of channels in all servers
+  avg_members: Average amount of members in a server
+  max_members: Maximum amount of servers in a single server
+  uptime: How long the bot has been online for

@@ -1,0 +1,130 @@
+{
+    "154457677895": {
+        "GUILD": {
+            "552629136863133706": {
+                "message_edit": {
+                    "enabled": false,
+                    "channel": null,
+                    "bots": false
+                },
+                "message_delete": {
+                    "enabled": false,
+                    "channel": null,
+                    "bots": false,
+                    "bulk_enabled": false,
+                    "bulk_individual": false,
+                    "cached_only": true
+                },
+                "user_change": {
+                    "enabled": true,
+                    "channel": null
+                },
+                "role_change": {
+                    "enabled": false,
+                    "channel": null
+                },
+                "voice_change": {
+                    "enabled": false,
+                    "channel": null
+                },
+                "user_join": {
+                    "enabled": true,
+                    "channel": null
+                },
+                "user_left": {
+                    "enabled": false,
+                    "channel": null
+                },
+                "channel_change": {
+                    "enabled": true,
+                    "channel": null
+                },
+                "guild_change": {
+                    "enabled": false,
+                    "channel": null
+                },
+                "emoji_change": {
+                    "enabled": false,
+                    "channel": null
+                },
+                "commands_used": {
+                    "enabled": false,
+                    "channel": null,
+                    "privs": [
+                        "MOD",
+                        "ADMIN",
+                        "BOT_OWNER",
+                        "GUILD_OWNER"
+                    ]
+                },
+                "ignored_channels": [],
+                "invite_links": {
+                    "6cyyqWY": {
+                        "uses": 11,
+                        "max_age": 0,
+                        "created_at": 1566205544.786,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 474104220770107392,
+                        "channel": 555621910017343498
+                    },
+                    "Vu8nhJP": {
+                        "uses": 0,
+                        "max_age": 0,
+                        "created_at": 1551941086.198,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 413438573107216405,
+                        "channel": 552697721543196682
+                    },
+                    "kuGjfxN": {
+                        "uses": 1,
+                        "max_age": 0,
+                        "created_at": 1567560613.479,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 474104220770107392,
+                        "channel": 613594546735022090
+                    },
+                    "rAaDz5Y": {
+                        "uses": 0,
+                        "max_age": 0,
+                        "created_at": 1569031517.832,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 543974987795791872,
+                        "channel": 555621910017343498
+                    },
+                    "twHJNdK": {
+                        "uses": 3,
+                        "max_age": 0,
+                        "created_at": 1552873669.682,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 502381121607303168,
+                        "channel": 552697784743231499
+                    },
+                    "u3xMV5P": {
+                        "uses": 2,
+                        "max_age": 0,
+                        "created_at": 1567922926.94,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 474104220770107392,
+                        "channel": 619681003782537250
+                    },
+                    "wYFVX7q": {
+                        "uses": 3,
+                        "max_age": 0,
+                        "created_at": 1555436652.77,
+                        "max_uses": 0,
+                        "temporary": false,
+                        "inviter": 474104220770107392,
+                        "channel": 552697721543196682
+                    }
+                },
+                "force_registration": true
+            }
+        }
+    }
+}

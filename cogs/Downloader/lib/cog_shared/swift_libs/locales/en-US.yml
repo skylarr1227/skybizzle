@@ -1,0 +1,73 @@
+permissions:
+  add_reactions: "Add Reactions"
+  administrator: "Administrator"
+  attach_files: "Attach Files"
+  ban_members: "Ban Members"
+  change_nickname: "Change Nickname"
+  connect: "Connect"
+  create_instant_invite: "Create Instant Invite"
+  deafen_members: "Deafen Members"
+  embed_links: "Embed Links"
+  external_emojis: "External Emojis"
+  kick_members: "Kick Members"
+  manage_channels: "Manage Channels"
+  manage_emojis: "Manage Emojis"
+  manage_guild: "Manage Server"
+  manage_messages: "Manage Messages"
+  manage_nicknames: "Manage Nicknames"
+  manage_roles: "Manage Roles"
+  manage_webhooks: "Manage Webhooks"
+  mention_everyone: "Mention Everyone"
+  move_members: "Move Members"
+  mute_members: "Mute Members"
+  read_message_history: "Read Message History"
+  read_messages: "Read Messages"
+  send_messages: "Send Messages"
+  send_tts_messages: "Send TTS Messages"
+  speak: "Speak"
+  use_voice_activation: "Use Voice Activation"
+  view_audit_log: "View Audit Log"
+  priority_speaker: "Priority Speaker"
+  stream: "Stream"
+
+formatting:
+  jump_to_message: "Jump to message"
+
+checks:
+  import_failed: "{n, plural, one {A required library} other {# required libraries}} could not be imported: {libs}. Check your logs for more detailed information."
+  # Used by Babel-based fallback translations
+  import_failed.one: "A required library could not be imported: {libs}. Check your logs for more detailed information."
+  import_failed.few: "{n} required libraries could not be imported: {libs}. Check your logs for more detailed information."
+
+time:
+  min_duration: "Given time duration does not meet nor exceed minimum duration of {delta}"
+  max_duration: "Given time duration exceeds maximum duration of {delta}"
+  fail_parse_delta: "Failed to parse `{input}` into any sort of meaningful time delta"
+  # Used as a fallback if Babel isn't available -- this should be left w/o ICU formatting syntax
+  delta_seconds: "{seconds} second(s)"
+
+util_cog:
+  cog: |
+    Internal swift_libs utility cog
+
+    This cog isn't very useful on its own.
+
+  swiftlibs:
+    _root: |
+      Internal Swift-Cogs shared library command group
+
+      Most commands in this group are only usable if your bot is started with the `--dev` and/or `--debug` flags
+
+      You'll likely only find this command group useful if you've been specifically instructed to use something here.
+    dump: Dump modules from the bot's module cache
+    reload: |
+      Reload swift_libs and all dependent cogs
+
+      You can pass `false` to the `reload_prompt` argument to skip the cog reload confirmation prompt.
+
+  reload_confirm: |
+    Done. The following cogs must be reloaded for this to take effect: {cogs}
+
+    If you'd like me to reload these cogs for you, react to this message with \N{WHITE HEAVY CHECK MARK}.
+  reload_manual: "The following cogs must be reloaded for this to take effect: {cogs}"
+  dumped: Dumped {count} modules from the bot's cache.

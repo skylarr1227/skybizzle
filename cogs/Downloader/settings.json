@@ -1,0 +1,208 @@
+{
+    "998240343": {
+        "GLOBAL": {
+            "installed": [
+                {
+                    "repo_name": "jump",
+                    "cog_name": "raffle"
+                },
+                {
+                    "repo_name": "fluff",
+                    "cog_name": "turn"
+                },
+                {
+                    "repo_name": "sin",
+                    "cog_name": "rolemanagement"
+                },
+                {
+                    "repo_name": "trusty",
+                    "cog_name": "autorole"
+                },
+                {
+                    "repo_name": "Tobo-Cogs",
+                    "cog_name": "errorlogs"
+                },
+                {
+                    "repo_name": "tmerc",
+                    "cog_name": "nestedcommands"
+                },
+                {
+                    "repo_name": "sin",
+                    "cog_name": "embedmaker"
+                },
+                {
+                    "repo_name": "lag",
+                    "cog_name": "instantcmd"
+                },
+                {
+                    "repo_name": "grande",
+                    "cog_name": "sketch"
+                },
+                {
+                    "repo_name": "grande",
+                    "cog_name": "bash"
+                },
+                {
+                    "repo_name": "grande",
+                    "cog_name": "webserver"
+                },
+                {
+                    "repo_name": "swift",
+                    "cog_name": "misctools"
+                },
+                {
+                    "repo_name": "swift",
+                    "cog_name": "remindme"
+                },
+                {
+                    "repo_name": "swift",
+                    "cog_name": "timedmute"
+                },
+                {
+                    "repo_name": "swift",
+                    "cog_name": "quotes"
+                },
+                {
+                    "repo_name": "sep",
+                    "cog_name": "simplereactroles"
+                },
+                {
+                    "repo_name": "sep",
+                    "cog_name": "embedbuilder"
+                },
+                {
+                    "repo_name": "sep",
+                    "cog_name": "botstats"
+                },
+                {
+                    "repo_name": "sep",
+                    "cog_name": "awsconfig"
+                },
+                {
+                    "repo_name": "swift",
+                    "cog_name": "botstats"
+                },
+                {
+                    "repo_name": "fluff",
+                    "cog_name": "rift"
+                },
+                {
+                    "repo_name": "trusty",
+                    "cog_name": "addimage"
+                },
+                {
+                    "repo_name": "swift",
+                    "cog_name": "rndactivity"
+                },
+                {
+                    "repo_name": "realsep",
+                    "cog_name": "memento"
+                },
+                {
+                    "repo_name": "fix",
+                    "cog_name": "datautils"
+                },
+                {
+                    "repo_name": "fix",
+                    "cog_name": "moreutils"
+                },
+                {
+                    "repo_name": "fox",
+                    "cog_name": "stealemoji"
+                },
+                {
+                    "repo_name": "jump",
+                    "cog_name": "shop"
+                },
+                {
+                    "repo_name": "jump",
+                    "cog_name": "race"
+                },
+                {
+                    "repo_name": "jump",
+                    "cog_name": "casino"
+                },
+                {
+                    "repo_name": "adv",
+                    "cog_name": "adventure"
+                },
+                {
+                    "repo_name": "sin",
+                    "cog_name": "economytrickle"
+                },
+                {
+                    "repo_name": "trusty",
+                    "cog_name": "adventurealert"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "minesweeper"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "targeter"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "evolution"
+                },
+                {
+                    "repo_name": "fox",
+                    "cog_name": "ccrole"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "updatechecker"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "twenty"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "grammar"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "cooldown"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "color"
+                },
+                {
+                    "repo_name": "tox",
+                    "cog_name": "commandchart"
+                },
+                {
+                    "repo_name": "mal",
+                    "cog_name": "account"
+                },
+                {
+                    "repo_name": "fix",
+                    "cog_name": "leveler"
+                },
+                {
+                    "repo_name": "snake",
+                    "cog_name": "NetworkTool"
+                },
+                {
+                    "repo_name": "fix",
+                    "cog_name": "adminutils"
+                },
+                {
+                    "repo_name": "tmerc",
+                    "cog_name": "massdm"
+                },
+                {
+                    "repo_name": "sky",
+                    "cog_name": "skyembed"
+                },
+                {
+                    "repo_name": "trusty",
+                    "cog_name": "extendedmodlog"
+                }
+            ]
+        }
+    }
+}

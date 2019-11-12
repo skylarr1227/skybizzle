@@ -1,0 +1,58 @@
+delay_set = 'Set time between status changes to {duration}. This change will take effect after the next status change.'
+parse_result = '''\N{INBOX TRAY} **Input:** {input}
+\N{OUTBOX TRAY} **Result:** {result}'''
+clear_confirm = '''Are you sure you want to clear {amount, plural, one {# status} other {# statuses}}?
+
+**This action cannot be undone!**'''
+clear_success = 'Successfully removed {amount, plural, one {# status} other {# statuses}}.'
+parse_fail_invalid_placeholder = 'Parsing that status failed \N{EM DASH} {placeholder} is not a valid placeholder'
+added_status = 'Added status **#{id}** successfully.'
+non_existant_status = 'No status with the ID `{id}` exists.'
+status_removed = 'Removed status **#{id}** (`{status}`) successfully.'
+no_setup_statuses = 'I have no statuses setup yet! Use `{prefix}rndactivity add` to add some!'
+ok_then = 'Okay then.'
+no_stream_specified = 'An activity type of `streaming` was specified, but a Twitch channel URL was not provided.'
+
+game_type = [
+  'Playing',
+  'Streaming',
+  'Listening to',
+  'Watching'
+]
+
+[help]
+  cog_class = 'Randomly set an activity status on a set interval'
+  root = '''Manage the bot's random activity statuses
+
+  The following placeholders can be used in status strings:
+
+  {placeholders}
+
+  Any invalid placeholders will cause the status to be ignored.'''
+  delay = '''Set the amount of time between changing the bot's activity status
+
+  The duration can be a bare integer amount of minutes, or a more detailed format such as `10m`.
+
+  Minimum duration between activity updates is 5 minutes. Default delay is every 10 minutes.'''
+  remove = '''Remove one or more statuses by their IDs
+
+  You can retrieve the ID for a status with `[p]rndactivity list`.'''
+  add = '''Add a random status
+
+  `activity_type` may be either `playing`, `listening`, `watching`, or `streaming`. Defaults to `playing`.
+
+  If `activity_type` is `streaming`, the first argument after `streaming` must be a Twitch channel URL.
+  '''
+  parse = 'Return the parsed output of a given string'
+  list = 'Lists all random statuses'
+  clear = 'Remove all random statuses'
+
+[placeholders]
+  servers = 'The amount of servers the bot is in'
+  shard = 'Current server shard'
+  shards = 'Total amount of shards'
+  playing_music = 'Total amount of servers currently playing music'
+  members = 'How many members are in all servers'
+  users = 'Total amount of unique members'
+  channels = 'Total amount of channels in all servers'
+  uptime = 'How long the bot has been online for'

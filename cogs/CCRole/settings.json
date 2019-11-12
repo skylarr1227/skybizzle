@@ -1,0 +1,189 @@
+{
+    "9999114111108101": {
+        "GUILD": {
+            "534903605510144000": {
+                "cmdlist": {
+                    "alertdragon": null
+                }
+            },
+            "603655349576400926": {
+                "cmdlist": {
+                    "alertdragon": {
+                        "text": "{author} I will ping you when a dragon spawns in {server}!!!!",
+                        "aroles": [
+                            609489325381517353
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "alertadventure": {
+                        "text": "{author} you will be notified when there is an active adventure started in {server}.",
+                        "aroles": [
+                            609485519755411467
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "alertcart": {
+                        "text": "{author} you will be notified when there is a a cart makes it's rounds in {server}.",
+                        "aroles": [
+                            609485686462218251
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "alertmini": {
+                        "text": "{author} you will be notified when a miniboss is spawned in {server}.",
+                        "aroles": [
+                            609490397881696277
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "butt": {
+                        "text": "Fuck your  buns {author} all night long",
+                        "aroles": [
+                            609489325381517353
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "guide": {
+                        "text": "Success!",
+                        "aroles": [],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "tourny": {
+                        "text": "__{target.mention}__ has been eliminated from the Tournament for losing in {channel}, better luck next time.",
+                        "aroles": [],
+                        "rroles": [
+                            624245217733771265
+                        ],
+                        "proles": [
+                            603662491284799526
+                        ],
+                        "targeted": true
+                    }
+                }
+            },
+            "591691796824719390": {
+                "cmdlist": {
+                    "sky": {
+                        "text": "{author} you have been granted access! welcome!",
+                        "aroles": [
+                            596656262112870401
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "skybot": {
+                        "text": "You will now recieve pings for Skybot Bosses!",
+                        "aroles": [
+                            625535560613625886
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "giveaways": {
+                        "text": "You will be pinged for Giveaways!",
+                        "aroles": [
+                            625535670764568587
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "announcements": {
+                        "text": "You will now recieve pings for server updates!",
+                        "aroles": [
+                            625535244019433472
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "events": {
+                        "text": "You will now be pinged for server games!",
+                        "aroles": [
+                            625535981549912069
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "tournament": {
+                        "text": "thank you {author} for signing up for the tournament! You will be added to the bracket!?",
+                        "aroles": [
+                            627163235539484674
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    }
+                }
+            },
+            "356196557336346627": {
+                "cmdlist": {
+                    "slave": null,
+                    "prisoner": null,
+                    "skybot": {
+                        "text": "You will now be pinged for boss spawns",
+                        "aroles": [
+                            621883957134360598
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "tournament": null,
+                    "unregister": {
+                        "text": "you are no longer participating",
+                        "aroles": [],
+                        "rroles": [
+                            617183554316664860
+                        ],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "nsfw": {
+                        "text": "You are now a naughty child",
+                        "aroles": [
+                            618630101906489356
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "giveaways": {
+                        "text": "You will be pinged for Giveaways",
+                        "aroles": [
+                            612374748328099847
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    },
+                    "announcements": {
+                        "text": "You will be pinged for server Announcements",
+                        "aroles": [
+                            612334426470219817
+                        ],
+                        "rroles": [],
+                        "proles": [],
+                        "targeted": false
+                    }
+                }
+            }
+        },
+        "GLOBAL": {}
+    }
+}

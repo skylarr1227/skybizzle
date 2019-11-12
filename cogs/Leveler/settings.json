@@ -1,0 +1,51 @@
+{
+    "78008101945374987542543513523680608657": {
+        "GLOBAL": {
+            "message_length": 5,
+            "xp": [
+                15,
+                20
+            ],
+            "backgrounds": {
+                "profile": {
+                    "alice": "http://i.imgur.com/MUSuMao.png",
+                    "abstract": "http://i.imgur.com/70ZH6LX.png",
+                    "bluestairs": "http://i.imgur.com/EjuvxjT.png",
+                    "lamp": "http://i.imgur.com/0nQSmKX.jpg",
+                    "coastline": "http://i.imgur.com/XzUtY47.jpg",
+                    "redblack": "http://i.imgur.com/74J2zZn.jpg",
+                    "default": "http://i.imgur.com/8T1FUP5.jpg",
+                    "iceberg": "http://i.imgur.com/8KowiMh.png",
+                    "miraiglasses": "http://i.imgur.com/2Ak5VG3.png",
+                    "miraikuriyama": "http://i.imgur.com/jQ4s4jj.png",
+                    "mountaindawn": "http://i.imgur.com/kJ1yYY6.jpg",
+                    "waterlilies": "http://i.imgur.com/qwdcJjI.jpg",
+                    "volpe": "https://cdn5.vectorstock.com/i/1000x1000/40/44/cute-fox-seamless-pattern-foxy-endless-background-vector-11904044.jpg",
+                    "bulba": "http://realmbot.org/$/iGrWs",
+                    "indo": "https://cdn.discordapp.com/attachments/608005446212517916/611728201214853161/image0.jpg",
+                    "flareon": "http://realmbot.org/$/jhxm5",
+                    "bulbasaur": "http://realmbot.org/$/iGrWs",
+                    "decidueye": "http://realmbot.org/$/NZzkB",
+                    "raichu": "http://realmbot.org/$/I58g1",
+                    "Snorlax": "http://realmbot.org/$/fPHtL",
+                    "jesus": "https://cdn.discordapp.com/attachments/608005446212517916/611780557579354112/JPEG_20190815_152916.jpg"
+                },
+                "rank": {
+                    "aurora": "http://i.imgur.com/gVSbmYj.jpg",
+                    "default": "http://i.imgur.com/SorwIrc.jpg",
+                    "nebula": "http://i.imgur.com/V5zSCmO.jpg",
+                    "mountain": "http://i.imgur.com/qYqEUYp.jpg",
+                    "city": "http://i.imgur.com/yr2cUM9.jpg"
+                },
+                "levelup": {
+                    "default": "http://i.imgur.com/eEFfKqa.jpg"
+                }
+            }
+        },
+        "GUILD": {
+            "591691796824719390": {
+                "disabled": false
+            }
+        }
+    }
+}

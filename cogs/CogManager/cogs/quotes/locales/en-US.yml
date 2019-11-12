@@ -1,0 +1,48 @@
+help:
+  cog_class: Quote that one dumb thing a friend said once
+  add: Add a quote
+  clearall: Clear *all* quotes in this server
+
+  root: |
+    Save and retrieve quotes
+
+    If no quote is given, a random quote is retrieved instead.
+
+  message: |
+    Quote a message by it's ID
+
+    To obtain a message IDs, enable Developer Mode in your
+    Appearance settings (on mobile, it's in Behaviour),
+    and select Copy ID from a message's context menu.
+
+  attribute: |
+    Attribute a quote to the specified user
+
+    This requires you to be the quote creator, an administrator or moderator
+
+  remove: |
+    Remove a quote by it's ID
+
+    This requires you to either be the quote's creator, an administrator,
+    moderator, or the attributed message author.
+
+quote_footer: "Quote #{id} | Quoted by {creator}"
+quote_footer_unknown: "Quote #{id} | Quoted by an unknown user"
+unknown_author: Unknown quote author
+generated_quotes: Generated {amnt} quotes.
+quote_added: Quote added
+message_not_found: I couldn't find that message. (is it in a different channel?)
+message_forbidden: I'm not allowed to retrieve that message.
+quote_attributed: "Attributed quote #{id} to **{member}**."
+quote_deleted: Quote successfully deleted.
+op_cancelled: Operation cancelled.
+
+reset_confirmation: |
+  Are you sure you want to reset all quotes?
+
+  Unless you have a time machine, **this action is irreversible.**
+
+delete_confirmation: |
+  Are you sure you want to delete this quote?
+
+  Unless you have a time machine, this action **cannot be undone**.

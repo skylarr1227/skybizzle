@@ -1,0 +1,14 @@
+{
+    "260": {
+        "GLOBAL": {
+            "updated_body": true,
+            "commands": {
+                "test": "@commands.command()\nasync def test(ctx):\n        embed = discord.Embed(title=\"This is a test\", description=\"Here are some emojis of the hopefully custom variety:\", color=0x0084FD)\n        embed.add_field(name=\"will add soon\", value=\"will add soon\", inline=False)\n        embed.add_field(name=\"Work in progress\", value=\"will add soon\")\n        await ctx.send(embed=embed)\n        await reaction.message.add_reaction('\u2764')\nreturn test",
+                "etesties": "@commands.command()\nasync def etesties(ctx):\n        embed = discord.Embed(title=\"This is a test<a<a:wigglepink2:627892199119650817>627892199119650817>\", description=\"Here are some emojis of the hopefully custom variety:<a<a:emoji_57:613199542027812875>613199542027812875> /n/<a<:emoji_33:610553341352607747>605522403501801472> \", color=0x0084FD)\n        embed.add_field(name=\"or maybe here<a<a:emoji_57:613199542027812875>613199542027812875> <a<:emoji_33:610553341352607747>605522403501801472>\", value=\"will add soon\", inline=False)\n        embed.add_field(name=\"Work in progress\", value=\"or here mf<a<a:emoji_57:613199542027812875>613199542027812875> <a<:emoji_33:610553341352607747>605522403501801472>\")\n        await ctx.send(embed=embed)\nreturn etesties",
+                "etesties2": "@commands.command()\nasync def etesties2(ctx):\n        embed = discord.Embed(title=\"This is a test<a<a:wigglepink2:627892199119650817>627892199119650817>\", description=\"Here are some emojis of the hopefully custom variety:<a<a:emoji_57:613199542027812875>613199542027812875> /n/<a<:emoji_33:610553341352607747>605522403501801472> \", color=0x0084FD)\n        embed.add_field(name=\"or maybe here<a<a:emoji_57:613199542027812875>613199542027812875> <a<:emoji_33:610553341352607747>605522403501801472>\", value=\"will add soon\", inline=False)\n        embed.add_field(name=\"Work in progress\", value=\"or here mf<a<a:emoji_57:613199542027812875>613199542027812875> <a<:emoji_33:610553341352607747>605522403501801472>\")\n        await ctx.send(embed=embed)\nreturn etesties2",
+                "on_message": "import discord\nfrom discord.ext import commands\n\n@commands.Cog.listener()\nasync def on_message(self,message):\n    if user.bot:\n        return\n    if 'Sky' in message.content or 'sky' in message.content:\n         await message.add_reaction('\ud83d\udc80')\n\nreturn on_message",
+                "on_reaction_add": "async def on_reaction_add(reaction, user):\n    if user.discord.Member == '474104220770107392':\n        return\n    await reaction.message.add_reaction('\u2665\ufe0f')\n\nreturn on_reaction_add"
+            }
+        }
+    }
+}

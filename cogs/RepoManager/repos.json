@@ -1,0 +1,167 @@
+[
+    {
+        "url": "https://github.com/mikeshardmind/SinbadCogs/",
+        "name": "sin",
+        "branch": "v3"
+    },
+    {
+        "url": "https://github.com/baiumbg/baiumbg-Cogs",
+        "name": "new",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fixator10/Fixator10-Cogs",
+        "name": "fixer",
+        "branch": "V3"
+    },
+    {
+        "url": "https://github.com/Seputaes/SepRedCogs",
+        "name": "sep",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/elijabesu/SauriCogs",
+        "name": "sauri",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/baiumbg/baiumbg-Cogs",
+        "name": "rpg",
+        "branch": "feature/rpg-weapon-types"
+    },
+    {
+        "url": "https://gitlab.com/odinair/Swift-Cogs",
+        "name": "swift",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Flame442/FlameCogs",
+        "name": "flame",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/TrustyJAID/Trusty-cogs/",
+        "name": "trusty",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/HarukiGrande/GrandeCogs-V3",
+        "name": "grande",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/skeith/MayuYukirin/",
+        "name": "nsfw",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/fixator10/Fixator10-Cogs",
+        "name": "fix",
+        "branch": "V3"
+    },
+    {
+        "url": "https://github.com/flaree/Flare-Cogs",
+        "name": "flare",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/mikeshardmind/SinbadCogs",
+        "name": "sindev",
+        "branch": "develop-3.2"
+    },
+    {
+        "url": "https://github.com/bobloy/Fox-V3",
+        "name": "fox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PredaaA/predacogs",
+        "name": "preda",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Tobotimus/Tobo-Cogs",
+        "name": "Tobo-Cogs",
+        "branch": "V3"
+    },
+    {
+        "url": "https://github.com/Malarne/discord_cogs",
+        "name": "mal",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/PredaaA/predacogs",
+        "name": "pred",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/retke/Laggrons-Dumb-Cogs",
+        "name": "lag",
+        "branch": "v3"
+    },
+    {
+        "url": "https://github.com/kennnyshiwa/kennnyshiwa-cogs",
+        "name": "ken",
+        "branch": "v3-cogs"
+    },
+    {
+        "url": "https://github.com/zephyrkul/FluffyCogs/",
+        "name": "fluff",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Seputaes/sep-cogs",
+        "name": "realsep",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/samclane/Snake-Cogs",
+        "name": "snake",
+        "branch": "v3"
+    },
+    {
+        "url": "https://github.com/Redjumpman/Jumper-Plugins/",
+        "name": "jump",
+        "branch": "V3"
+    },
+    {
+        "url": "https://github.com/NeuroAssassin/Toxic-Cogs",
+        "name": "tox",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aikaterna/gobcog",
+        "name": "adv",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/locastan/gobcog",
+        "name": "gob",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/aikaterna/aikaterna-cogs/",
+        "name": "aik",
+        "branch": "v3"
+    },
+    {
+        "url": "https://github.com/Injabie3/lui-cogs-v3",
+        "name": "lui",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/Seputaes/SepRedCogs",
+        "name": "sep3",
+        "branch": "red_issue/2381/testing"
+    },
+    {
+        "url": "https://github.com/Seputaes/SepRedCogs",
+        "name": "sep2",
+        "branch": "master"
+    },
+    {
+        "url": "https://github.com/tmercswims/tmerc-cogs/",
+        "name": "tmerc",
+        "branch": "v3"
+    }
+]

@@ -1,0 +1,39 @@
+{
+    "2042511098": {
+        "GLOBAL": {
+            "delay": 1800.0,
+            "statuses": [
+                {
+                    "type": 0,
+                    "game": "in exactly {channels}",
+                    "url": null
+                },
+                {
+                    "type": 0,
+                    "game": "with users on {servers} servers",
+                    "url": null
+                },
+                {
+                    "type": 0,
+                    "game": "the thug life for {uptime}",
+                    "url": null
+                },
+                {
+                    "type": 0,
+                    "game": "with an avg of {avg_members} users per server",
+                    "url": null
+                },
+                {
+                    "type": 0,
+                    "game": "with the fibers of space and time",
+                    "url": null
+                },
+                {
+                    "type": 0,
+                    "game": "with nothing but popsicle stick and a rubber band",
+                    "url": null
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+  "author": [
+    "Fixator10",
+    "DiNitride"
+  ],
+  "install_msg": "Thanks for install.",
+  "short": "Commands for getting information about users or servers.",
+  "description": "Commands for getting information about users or servers.",
+  "tags": [
+    "data",
+    "info",
+    "channel",
+    "rolemembers",
+    "server",
+    "permissions"
+  ],
+  "requirements": [
+    "matplotlib",
+    "tabulate",
+    "wcwidth"
+  ]
+}

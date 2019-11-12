@@ -1,0 +1,552 @@
+{
+    "8927348724": {
+        "GUILD": {
+            "535111954021351425": {
+                "enabled": true,
+                "entries": [
+                    {
+                        "name": "global",
+                        "command": "giveaway raffle start",
+                        "creator": "474104220770107392",
+                        "guild": "535111954021351425",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "giveaway",
+                        "command": "raffle start",
+                        "creator": "474104220770107392",
+                        "guild": "535111954021351425",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "ic",
+                        "command": "instantcmd",
+                        "creator": "474104220770107392",
+                        "guild": "535111954021351425",
+                        "global": false,
+                        "uses": 0
+                    }
+                ]
+            },
+            "578636098998108180": {
+                "enabled": true,
+                "entries": [
+                    {
+                        "name": "global",
+                        "command": "\";info sky\" embed dropglobal 1",
+                        "creator": "474104220770107392",
+                        "guild": "578636098998108180",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "sky",
+                        "command": "embed dropglobal 1",
+                        "creator": "474104220770107392",
+                        "guild": "578636098998108180",
+                        "global": false,
+                        "uses": 0
+                    }
+                ]
+            },
+            "591691796824719390": {
+                "enabled": true,
+                "entries": [
+                    {
+                        "name": "wipe",
+                        "command": "cleanup messages",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "color",
+                        "command": "colourrole",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "setcolor",
+                        "command": "colourrole colour",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "m",
+                        "command": "misctools",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "psc",
+                        "command": "photosync config google",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "ps",
+                        "command": "photosync config",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "dp",
+                        "command": "embed frommsg",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "drope",
+                        "command": "embed drop",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "mewsave",
+                        "command": "embed drop",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "slicendice",
+                        "command": "adventure Blood Wyrm",
+                        "creator": "474104220770107392",
+                        "guild": "591691796824719390",
+                        "global": false,
+                        "uses": 0
+                    }
+                ]
+            },
+            "599692457709666363": {
+                "enabled": true,
+                "entries": [
+                    {
+                        "name": "ps",
+                        "command": "photosync",
+                        "creator": "474104220770107392",
+                        "guild": "599692457709666363",
+                        "global": false,
+                        "uses": 0
+                    }
+                ]
+            },
+            "552629136863133706": {
+                "enabled": true,
+                "entries": [
+                    {
+                        "name": "s",
+                        "command": "search",
+                        "creator": "474104220770107392",
+                        "guild": "552629136863133706",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "hl",
+                        "command": "highlight",
+                        "creator": "474104220770107392",
+                        "guild": "552629136863133706",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "ic",
+                        "command": "instantcmd create",
+                        "creator": "474104220770107392",
+                        "guild": "552629136863133706",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "instdel",
+                        "command": "instantcmd delete on_reaction_add",
+                        "creator": "474104220770107392",
+                        "guild": "552629136863133706",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "tjoin",
+                        "command": "srole add Tournament",
+                        "creator": "474104220770107392",
+                        "guild": "552629136863133706",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "tremove",
+                        "command": "srole remove Tournament",
+                        "creator": "474104220770107392",
+                        "guild": "552629136863133706",
+                        "global": false,
+                        "uses": 0
+                    }
+                ]
+            },
+            "356196557336346627": {
+                "enabled": true,
+                "entries": [
+                    {
+                        "name": "ar",
+                        "command": "reload adventure",
+                        "creator": "474104220770107392",
+                        "guild": "356196557336346627",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "ic",
+                        "command": "instantcmd create",
+                        "creator": "474104220770107392",
+                        "guild": "356196557336346627",
+                        "global": false,
+                        "uses": 0
+                    },
+                    {
+                        "name": "global",
+                        "command": "inrole rolemembers",
+                        "creator": "474104220770107392",
+                        "guild": "356196557336346627",
+                        "global": false,
+                        "uses": 0
+                    }
+                ]
+            }
+        },
+        "GLOBAL": {
+            "entries": [
+                {
+                    "name": "purge",
+                    "command": "cleanup messages",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "purgeuser",
+                    "command": "cleanup user",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "purgebots",
+                    "command": "cleanup bot",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "pic",
+                    "command": "addimage addglobal",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "purgeowo",
+                    "command": "cleanup user <@408785106942164992> 1000",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "e",
+                    "command": "einfo",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "u",
+                    "command": "uinfo",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "se",
+                    "command": "stealemoji",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "I",
+                    "command": "instantcmd",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "newshop",
+                    "command": "shop manager create",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "emsg",
+                    "command": "embed globalfrommsg",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "store",
+                    "command": "shop buy",
+                    "creator": "474104220770107392",
+                    "guild": "535111954021351425",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "short",
+                    "command": "alias global add",
+                    "creator": "474104220770107392",
+                    "guild": "535111954021351425",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "inv",
+                    "command": "inventory",
+                    "creator": "474104220770107392",
+                    "guild": "535111954021351425",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "bag",
+                    "command": "inventory",
+                    "creator": "474104220770107392",
+                    "guild": "535111954021351425",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "bal",
+                    "command": "bank balance",
+                    "creator": "474104220770107392",
+                    "guild": "535111954021351425",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "efm",
+                    "command": "embed frommsg",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "adv",
+                    "command": "adventure",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "ts",
+                    "command": "trickleset",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "class",
+                    "command": "heroclass",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "lb",
+                    "command": "leaderboard",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "syn",
+                    "command": "grammar --sf",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "rhyme",
+                    "command": "grammar --rw",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "morenouns",
+                    "command": "grammar --mst",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "closeto",
+                    "command": "grammar --ml",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "adj",
+                    "command": "grammar --af",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "nouns",
+                    "command": "grammar --nf",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "topic",
+                    "command": "grammar --topics",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "synonym",
+                    "command": "grammar --sf",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "xpchan",
+                    "command": "levelerset channel whitelist add",
+                    "creator": "474104220770107392",
+                    "guild": "599692457709666363",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "setbg",
+                    "command": "lvlset profile bg",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "addpbg",
+                    "command": "lvladmin bg addprofilebg",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "setpinfo",
+                    "command": "lvlset profile info",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "setptitle",
+                    "command": "lvlset profile title",
+                    "creator": "474104220770107392",
+                    "guild": "603655349576400926",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "gibleg",
+                    "command": "give loot legendary",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "inrole",
+                    "command": "rolemembers",
+                    "creator": "474104220770107392",
+                    "guild": "356196557336346627",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "tlist",
+                    "command": "rolemembers Tournament",
+                    "creator": "474104220770107392",
+                    "guild": "356196557336346627",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "postembed",
+                    "command": "embed dropglobal",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                },
+                {
+                    "name": "tlinks",
+                    "command": "embed dropglobal tlinks",
+                    "creator": "474104220770107392",
+                    "guild": "591691796824719390",
+                    "global": true,
+                    "uses": 0
+                }
+            ]
+        }
+    }
+}

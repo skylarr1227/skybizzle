@@ -1,0 +1,100 @@
+{
+    "5074395003": {
+        "GUILD": {
+            "535111954021351425": {
+                "Shops": {
+                    "Brothel Vending Machine": {
+                        "Items": {},
+                        "Role": "All"
+                    },
+                    "Boobs little boob": {
+                        "Items": {
+                            "ITS A BOOB YO": {
+                                "Cost": 15000,
+                                "Qty": "--",
+                                "Type": "basic",
+                                "Info": "This Is good for one boob",
+                                "Role": null,
+                                "Messages": null
+                            }
+                        },
+                        "Role": "All"
+                    }
+                }
+            },
+            "591691796824719390": {
+                "Settings": {
+                    "Closed": false
+                },
+                "Shops": {
+                    "Sky's marketogoodies": {
+                        "Items": {
+                            "FUCKIN BUTT": {
+                                "Cost": 1000,
+                                "Qty": "--",
+                                "Type": "basic",
+                                "Info": "It's a damn butt",
+                                "Role": null,
+                                "Messages": null
+                            }
+                        },
+                        "Role": "Sky Worshiper"
+                    }
+                }
+            }
+        },
+        "MEMBER": {
+            "591691796824719390": {
+                "474104220770107392": {
+                    "Inventory": {
+                        "FUCKIN BUTT": {
+                            "Cost": 1000,
+                            "Qty": 1,
+                            "Type": "basic",
+                            "Info": "It's a damn butt",
+                            "Role": null,
+                            "Messages": null
+                        }
+                    }
+                },
+                "383105414171983875": {
+                    "Inventory": {
+                        "FUCKIN BUTT": {
+                            "Cost": 1000,
+                            "Qty": 1,
+                            "Type": "basic",
+                            "Info": "It's a damn butt",
+                            "Role": null,
+                            "Messages": null
+                        }
+                    }
+                },
+                "247387002536722434": {
+                    "Inventory": {
+                        "FUCKIN BUTT": {
+                            "Cost": 1000,
+                            "Qty": 1,
+                            "Type": "basic",
+                            "Info": "It's a damn butt",
+                            "Role": null,
+                            "Messages": null
+                        }
+                    }
+                },
+                "525697999821602848": {
+                    "Inventory": {
+                        "FUCKIN BUTT": {
+                            "Cost": 1000,
+                            "Qty": 1,
+                            "Type": "basic",
+                            "Info": "It's a damn butt",
+                            "Role": null,
+                            "Messages": null
+                        }
+                    }
+                }
+            }
+        },
+        "GLOBAL": {}
+    }
+}

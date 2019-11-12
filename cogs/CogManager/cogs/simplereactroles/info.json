@@ -1,0 +1,13 @@
+{
+    "author" : ["sep#0001"],
+    "install_msg" : "Welcome to Sep's SimpleReactRoles! Type .reactroles to get started!",
+    "name" : "SimpleReactRoles",
+    "short" : "Assign/remove roles based on user's reactions on messages.",
+    "description" : "Assign/remove roles based on user's reactions on messages.",
+    "tags" : ["reaction", "role", "utility"],
+    "required_cogs": {
+        "seplib": "https://github.com/Seputaes/SepRedCogs.git"
+    },
+    "requirements" : [],
+    "hidden" : false
+}

@@ -1,0 +1,48 @@
+{
+    "45463543548": {
+        "GUILD": {
+            "568003159339827201": {
+                "AGREE_CHANNEL": 568003159339827205,
+                "AGREE_KEY": "sky is the best",
+                "AGREE_MSG": "Welcome! <:emoji_32:591738808534433797>emoji_33: \n``1. Play nice and let's be respectful to others.\n2. No racist, homophobic, or other derogatory comments\n3. Don't post anything inappropriate or NSFW unless in a designated NSFW channelml.\n4. Don't be a Universal Hope(Zahc) LOL\n5. NO ALTS \n6. Keep begging to a minimum\n7. Spam only where it's designated. This is obvious.\n8. Suicide is not a joke, let's keep that mindset and not make it one. \n9. No advertising your bullshit here, come on\n10. Follow Discord's TOS... Or don't and get reported-Discord is quick to delete accounts and they don't mess around. trust me.\n11. English only, sorry if you don't speak it your in the wrong place.``\n\n **If you have read these rules, and you agree that by not following them you will be kicked and banned without warning then just type the following phrase to gain access to the server.**\n\n\"sky is the best\"",
+                "ENABLED": true,
+                "ROLE": [
+                    568007165864968192,
+                    568007258617806859
+                ]
+            },
+            "591691796824719390": {
+                "AGREE_CHANNEL": 591691796824719395,
+                "AGREE_KEY": "\"I understand\"",
+                "AGREE_MSG": "``Rules for the server are listed below, I read to gain access.\n1. All giveaways that list a requirement such as mee6 level requirement, specific trials/gyms beaten etc are referring to your account in the MewBot Official server and will be checked for every winner.\n2. If you have been kicked, banned or otherwise have been removed/left the MewBot official server you will be from here as well unless Skylarr is directly aware of the situation and has spoken with you about it.\n3. Don't be a bitch, begger, racist asshole, or a \u26d4Universal Hope.\u26d4\nthank you.``\n\nby typing `i understand`  you are confirming you have read the rules listed above and know you will be kicked and banned for breaking them, likely without any warnings. \n\nType ```I understand``` to be given access",
+                "ENABLED": true,
+                "ROLE": [
+                    596656262112870401,
+                    620835317158510602
+                ]
+            },
+            "603655349576400926": {
+                "AGREE_CHANNEL": 608005446212517916,
+                "ENABLED": true,
+                "ROLE": [
+                    609489325381517353,
+                    609485686462218251,
+                    609485519755411467,
+                    609490397881696277
+                ]
+            },
+            "623220779991171082": {
+                "ROLE": [
+                    623224969387573298
+                ]
+            },
+            "356196557336346627": {
+                "ROLE": [
+                    612332219247362048
+                ],
+                "ENABLED": true
+            }
+        },
+        "GLOBAL": {}
+    }
+}

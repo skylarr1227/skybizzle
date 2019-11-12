@@ -1,0 +1,1141 @@
+{
+    "78631113035100160": {
+        "EMBED": {
+            "GLOBAL": {
+                "1": {
+                    "embed": {
+                        "initable": {
+                            "description": "**Ability**: Feast on the living\n**Exp**: 287079/0\n**Nature**: Livid +All, +$NULL\n**Types**: Shadow, $NULL\n\n    **HP**: 297 | 27 **IVs** | 0 **EVs**\n    **Attack**: 164 | 29 **IVs** | 0 **EVs**\n    **Defense**: 173 | 20 **IVs** |0 **EVs**\n    **Sp. Atk**: 385 | 30 **IVs** |  252 **EVs**\n    **Sp. Def**: 264 | 27 **IVs** | 0 **EVs**\n    **Speed**: 217 | 29 **IVs** | 252 **EVs**\n    **Happiness**: 56\n    IV % : 87.1",
+                            "color": 16761035,
+                            "title": "Level 666 Skylarr \"Mother of Shadow\" \"<:emoji_52:595715954521014280>\""
+                        },
+                        "settable": {
+                            "image": {
+                                "url": "https://cdn.discordapp.com/attachments/543660282371637260/595738432106397707/ezgif.com-gif-maker_15.gif"
+                            },
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/474104220770107392/b3bcc5c282081a72e52b1b55c7bb0a8b.webp?size=1024"
+                            },
+                            "footer": {
+                                "text": "Number 666/NULL | Held item : Soul Shredder - Upvote MewBot!"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "4": {
+                    "embed": {
+                        "initable": {
+                            "description": "Suggested idea for a new \"redeem pack\" system to spark some *deemage* for \u163b\u025b\u163a\u15f7\u14cd\u15b6.",
+                            "title": "Pack Upgrade proposal"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "only one pack 6 can be redeemed per account."
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "New  UNNIQUE rewards \ud83d\udc4c",
+                                "value": "New packs list\ud83d\udcdc",
+                                "inline": true
+                            },
+                            {
+                                "name": "<:issue_opened:595006165038137354> Pack 4 25 Redeems",
+                                "value": "\u2022 3-5 Slot Luck\n\u2022 350,000 Mewcoins\n\u2022 Battle mult. +X10. \n\u2022 small chance of obtaining one \ud83c\udccf",
+                                "inline": true
+                            },
+                            {
+                                "name": "<:issue_opened:595006165038137354> Pack 5 \u1d39\u1d31\u1d33\u1d2c\u1d3e\u1d2c\u1d9c\u1d37 :  50 Redeems",
+                                "value": "\u2022 10 Slot Luck\n\u2022 Battle mult. +X25\n\u2022 500,000 Mewcoins \n\u2022 fair chance of obtaining x1\ud83c\udccf \n\u2022 x1 RANDOM Egg 85-99% IV",
+                                "inline": true
+                            },
+                            {
+                                "name": "<:issue_opened:595006165038137354> Pack 6 \u1d41\u1d38\u1d40\u1d35\u1d39\u1d2c\u1d40\u1d31 \u1d3e\u1d2c\u1d9c\u1d37 : 125 Redeems",
+                                "value": "\u2022 2,000,000 Mewcoins\n\u2022 Battle mult. +X55\n\u2022 great chance of obtaining x1 \ud83c\udccf\n\u2022 x1 \ud83d\udeb2 \n\u2022 x1 SHINY random",
+                                "inline": true
+                            },
+                            {
+                                "name": "Explanation of items in packs",
+                                "value": "\u2022 \ud83d\udeb2<bike>  accelerates egg hatching by X2 times\n\u2022 \ud83c\udccf is a mystery only known to possibly give the user something unobtainable ANYWHERE else",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "d1": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:628761373274406914>Abomasnow | No. - 9285 | Level 100 | IV% 94.09%\n<:mewbotmale:628761373274406914>Amoonguss | No. - 5978 | Level 100 | IV% 90.32%\n<:mewbotmale:628761373274406914>Charmander | No. - 17127 | Level 13 | IV% 90.32%\n<:mewbotmale:628761373274406914>Swadloon | No. - 10173 | Level 55 | IV% 89.78%\n<:mewbotmale:628761373274406914>Gyarados | No. - 5616 | Level 100 | IV% 89.78%\n<:mewbotmale:628761373274406914>Latios-mega | No. - 16522 | Level 100 | IV% 89.78%\n<:mewbotmale:628761373274406914>Venusaur | No. - 859 | Level 100 | IV% 88.71%\n<:mewbotmale:628761373274406914>Rhyperior | No. - 6373 | Level 100 | IV% 88.71%\n<:mewbotmale:628761373274406914>Magikarp | No. - 8945 | Level 11 | IV% 88.17%\n<:mewbotem:628761334925754396>Sceptile | No. - 1983 | Level 100 | IV% 87.63%\n<:mewbotmale:628761373274406914>Feraligatr | No. - 12170 | Level 100 | IV% 87.63%\n<:mewbotmale:628761373274406914>Treecko | No. - 15844 | Level 5 | IV% 87.10%\n<:mewbotmale:628761373274406914>Fennekin | No. - 15885 | Level 5 | IV% 86.56%\n<:mewbotmale:628761373274406914>Magikarp | No. - 9523 | Level 18 | IV% 86.02%\n<:mewbotmale:628761373274406914>Scrafty | No. - 16204 | Level 100 | IV% 86.02%",
+                            "color": 3066993,
+                            "title": "Dooms 1-5"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "d2": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:628761373274406914>Infernape | No. - 9501 | Level 100 | IV% 86.02%\n<:mewbotmale:628761373274406914>Charizard | No. - 2788 | Level 100 | IV% 86.02%\n<:mewbotmale:628761373274406914>Axew | No. - 17566 | Level 5 | IV% 85.48%\n<:mewbotmale:628761373274406914>Egg | No. - 17551 | Level 5 | IV% 85.48%\n<:mewbotmale:628761373274406914>Bouffalant | No. - 9512 | Level 100 | IV% 85.48%\n<:mewbotmale:628761373274406914>Aipom | No. - 10032 | Level 34 | IV% 84.95%\n<:mewbotmale:628761373274406914>Seismitoad | No. - 2483 | Level 100 | IV% 84.95%\n<:mewbotmale:628761373274406914>Carracosta | No. - 10183 | Level 100 | IV% 84.41%\n<:mewbotmale:628761373274406914>Rockruff | No. - 16012 | Level 57 | IV% 83.87%\n<:mewbotmale:628761373274406914>Snorlax | No. - 8932 | Level 14 | IV% 83.87%\n<:mewbotmale:628761373274406914>Whiscash | No. - 1883 | Level 100 | IV% 83.87%\n<:mewbotmale:628761373274406914>Charmander | No. - 15677 | Level 5 | IV% 83.87%\n<:mewbotmale:628761373274406914>Froakie | No. - 3504 | Level 5 | IV% 83.87%\n<:mewbotmale:628761373274406914>Kartana | No. - 16464 | Level 100 | IV% 83.33%\n<:mewbotmale:628761373274406914>Swampert-mega | No. - 8655 | Level 100 | IV% 83.33%",
+                            "color": 15277667,
+                            "title": "Dooms 2-5"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "d3": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotem:628761334925754396>Ludicolo | No. - 16575 | Level 1 | IV% 83.33%\n<:mewbotmale:628761373274406914>Tentacruel | No. - 10188 | Level 100 | IV% 83.33%\n<:mewbotmale:628761373274406914>Pikipek | No. - 8481 | Level 8 | IV% 82.80%\nstar2<:mewbotmale:628761373274406914>Arcanine | No. - 17133 | Level 100 | IV% 82.80%\n<:mewbotmale:628761373274406914>Snorlax | No. - 16558 | Level 5 | IV% 82.80%\n<:mewbotmale:628761373274406914>Egg | No. - 17523 | Level 5 | IV% 82.80%\n<:mewbotmale:628761373274406914>Wishiwashi-school | No. - 3633 | Level 100 | IV% 82.26%\n<:mewbotem:628761334925754396>Sceptile | No. - 10213 | Level 100 | IV% 81.72%\n<:mewbotmale:628761373274406914>Totodile | No. - 16557 | Level 5 | IV% 81.18%\n<:mewbotmale:628761373274406914>Charmander | No. - 2201 | Level 5 | IV% 81.18%\n<:mewbotmale:628761373274406914>Magikarp | No. - 16470 | Level 5 | IV% 81.18%\n<:mewbotem:628761334925754396>Fennekin | No. - 9504 | Level 5 | IV% 81.18%\n<:mewbotmale:628761373274406914>Gurdurr | No. - 5197 | Level 57 | IV% 81.18%\n<:mewbotmale:628761373274406914>Treecko | No. - 1628 | Level 5 | IV% 81.18%\n<:mewbotem:628761334925754396>Frogadier | No. - 1444 | Level 29 | IV% 80.65%",
+                            "color": 2067276,
+                            "title": "Dooms 3-5"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "d4": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotem:628761334925754396>Frogadier | No. - 9386 | Level 6 | IV% 80.65%\n<:mewbotem:628761334925754396>Greninja | No. - 5249 | Level 100 | IV% 80.65%\n<:mewbotmale:628761373274406914>Charmander | No. - 16536 | Level 5 | IV% 80.65%\n<:mewbotmale:628761373274406914>Lotad | No. - 16579 | Level 5 | IV% 80.11%\n<:mewbotmale:628761373274406914>Diancie | No. - 17585 | Level 100 | IV% 80.11%\n<:mewbotmale:628761373274406914>Egg | No. - 17548 | Level 5 | IV% 80.11%\n<:mewbotmale:628761373274406914>Roserade | No. - 16038 | Level 12 | IV% 79.57%\n<:mewbotmale:628761373274406914>Magikarp | No. - 9524 | Level 5 | IV% 79.57%\nstar2<:mewbotem:628761334925754396>Darmanitan | No. - 6384 | Level 100 | IV% 79.57%\n<:mewbotmale:628761373274406914>Froakie | No. - 5696 | Level 5 | IV% 79.57%\n<:mewbotmale:628761373274406914>Charizard-mega-y | No. - 924 | Level 100 | IV% 79.03%\n<:mewbotmale:628761373274406914>Grovyle | No. - 17565 | Level 21 | IV% 79.03%\n<:mewbotmale:628761373274406914>Charmander | No. - 16540 | Level 5 | IV% 79.03%\n<:mewbotmale:628761373274406914>Groudon | No. - 17363 | Level 100 | IV% 79.03%\n<:mewbotmale:628761373274406914>Gorebyss | No. - 3585 | Level 1 | IV% 79.03%",
+                            "color": 10070709,
+                            "title": "Dooms 4-5"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "d5": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:628761373274406914>Diancie | No. - 17585 | Level 100 | IV% 80.11%\n<:mewbotmale:628761373274406914>Groudon | No. - 17363 | Level 100 | IV% 79.03%\n<:mewbotmale:628761373274406914>Virizion | No. - 16471 | Level 100 | IV% 77.96%\n<:mewbotmale:628761373274406914>Lugia | No. - 11226 | Level 1 | IV% 77.42%\n<:mewbotmale:628761373274406914>Hoopa | No. - 17503 | Level 100 | IV% 75.27%\n<:mewbotmale:628761373274406914>Rotom | No. - 16503 | Level 5 | IV% 74.19%\n<:mewbotmale:628761373274406914>Zeraora | No. - 16231 | Level 100 | IV% 74.19%\n<:mewbotmale:628761373274406914>Entei | No. - 1864 | Level 100 | IV% 72.58%\n<:mewbotmale:628761373274406914>Marshadow | No. - 16044 | Level 100 | IV% 72.58%\n<:mewbotmale:628761373274406914>Dialga | No. - 5255 | Level 1 | IV% 71.51%\n<:mewbotmale:628761373274406914>Hoopa | No. - 17507 | Level 100 | IV% 69.89%\n<:mewbotmale:628761373274406914>Zekrom | No. - 17607 | Level 1 | IV% 69.35%\n<:mewbotmale:628761373274406914>Rotom | No. - 5238 | Level 100 | IV% 69.35%\n<:mewbotmale:628761373274406914>Dialga | No. - 3981 | Level 1 | IV% 68.28%\n<:mewbotmale:628761373274406914>Darkrai | No. - 16448 | Level 100 | IV% 68.28%",
+                            "color": 2895667,
+                            "title": "Dooms 5-5"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "tlinks": {
+                    "embed": {
+                        "initable": {
+                            "description": "__Link to private showdown:__\n(\u261e \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u261e\u2022\u00b0\u2022\u00b0\u2022    http://pokepla.net:8085 \n\n__Link to Quick reference for BRACKET and Schedule:__\nhttp://pokepla.net    \u2022\u00b0\u2022\u00b0\u2022\u00b0\u2022\u261c (\u21bc_\u21bc)",
+                            "color": 15277667,
+                            "title": "Tournament Links!!!!"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                }
+            },
+            "578636098998108180": {
+                "2": {
+                    "embed": {
+                        "initable": {
+                            "color": 16711888,
+                            "title": "Caught!"
+                        },
+                        "settable": {
+                            "image": {
+                                "url": "http://64.52.84.23/Lychee/uploads/big/feb3942067854bc327923bf6a9ee02e3.png"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                }
+            },
+            "591691796824719390": {
+                "agree": {
+                    "embed": {
+                        "initable": {
+                            "color": 15158332
+                        },
+                        "settable": {
+                            "author": {
+                                "name": "Autorole settings for Sky's Exclusive Giveaways AND Games"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "Current autorole state:",
+                                "value": "True",
+                                "inline": true
+                            },
+                            {
+                                "name": "Current Roles:",
+                                "value": "<@&596656262112870401>",
+                                "inline": true
+                            },
+                            {
+                                "name": "Agreement message:",
+                                "value": "``Rules for the server are listed below, I read to gain access.\n1. All giveaways that list a requirement such as mee6 level requirement, specific trials/gyms beaten etc are referring to your account in the MewBot Official server and will be checked for every winner.\n2. If you have been kicked, banned or otherwise have been removed/left the MewBot official server you will be from here as well unless Skylarr is directly aware of the situation and has spoken with you about it.\n3. Don't be a bitch, begger, racist asshole, or a \u26d4Universal Hope.\u26d4\nthank you.``\n\nby typing `i understand`  you are confirming you have read the rules listed above and know you will be kicked and banned for breaking them, likely without any warnings. \n\nType ```I understand``` to be given access",
+                                "inline": true
+                            },
+                            {
+                                "name": "Agreement key:",
+                                "value": "I understand",
+                                "inline": true
+                            },
+                            {
+                                "name": "Agreement channel:",
+                                "value": "<#591691796824719395>",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "newpacks": {
+                    "embed": {
+                        "initable": {
+                            "description": "Suggested idea for a new \"redeem pack\" system to spark some *deemage* for \u163b\u025b\u163a\u15f7\u14cd\u15b6.",
+                            "title": "Pack Upgrade proposal"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "only one pack 6 can be redeemed per account."
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "New  UNNIQUE rewards \ud83d\udc4c",
+                                "value": "New packs list\ud83d\udcdc",
+                                "inline": true
+                            },
+                            {
+                                "name": "<:issue_opened:595006165038137354> Pack 4 25 Redeems",
+                                "value": "\u2022 3-5 Slot Luck\n\u2022 350,000 Mewcoins\n\u2022 Battle mult. +X10. \n\u2022 small chance of obtaining one \ud83c\udccf",
+                                "inline": true
+                            },
+                            {
+                                "name": "<:issue_opened:595006165038137354> Pack 5 \u1d39\u1d31\u1d33\u1d2c\u1d3e\u1d2c\u1d9c\u1d37 :  50 Redeems",
+                                "value": "\u2022 10 Slot Luck\n\u2022 Battle mult. +X25\n\u2022 500,000 Mewcoins \n\u2022 fair chance of obtaining x1\ud83c\udccf \n\u2022 x1 RANDOM Egg 85-99% IV",
+                                "inline": true
+                            },
+                            {
+                                "name": "<:issue_opened:595006165038137354> Pack 6 \u1d41\u1d38\u1d40\u1d35\u1d39\u1d2c\u1d40\u1d31 \u1d3e\u1d2c\u1d9c\u1d37 : 125 Redeems",
+                                "value": "\u2022 2,000,000 Mewcoins\n\u2022 Battle mult. +X55\n\u2022 great chance of obtaining x1 \ud83c\udccf\n\u2022 x1 \ud83d\udeb2 \n\u2022 x1 SHINY random",
+                                "inline": true
+                            },
+                            {
+                                "name": "Explanation of items in packs",
+                                "value": "\u2022 \ud83d\udeb2<bike>  accelerates egg hatching by X2 times\n\u2022 \ud83c\udccf is a mystery only known to possibly give the user something unobtainable ANYWHERE else",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "regi": {
+                    "embed": {
+                        "initable": {
+                            "description": "A second 61% regirock up for grabs:emoji_43::muscleright:\n\nReact to this message with \ud83c\udf9f to enter.",
+                            "color": 15158332,
+                            "title": "regirock 61% iv #2!"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "Started by: Skylarr | Winners: 1 | Ends at Thu 25 Jul 2019 04:14:56 UTC | Raffle ID: 603440174764130305"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "Days on Server",
+                                "value": "0",
+                                "inline": true
+                            },
+                            {
+                                "name": "Allowed Roles",
+                                "value": "@everyone",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "regi#1": {
+                    "embed": {
+                        "initable": {
+                            "description": "REGIROCK 61% iv one winner\n\nReact to this message with \ud83c\udf9f to enter.",
+                            "color": 15158332,
+                            "title": "regirock 61% iv"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "Started by: Skylarr | Winners: 1 | Ends at Thu 25 Jul 2019 04:13:21 UTC | Raffle ID: 603439796324532244"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "Days on Server",
+                                "value": "0",
+                                "inline": true
+                            },
+                            {
+                                "name": "Allowed Roles",
+                                "value": "Sky Worshiper",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "regitenwins": {
+                    "embed": {
+                        "initable": {
+                            "description": "Random regi Pokemon. Could win any of them. 10 winners.\n\nReact to this message with \ud83c\udf9f to enter.",
+                            "color": 15158332,
+                            "title": "regi-random giveaway!"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "Started by: Skylarr | Winners: 10 | Ends at Fri 26 Jul 2019 04:17:28 UTC | Raffle ID: 603440843650629662"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "Days on Server",
+                                "value": "0",
+                                "inline": true
+                            },
+                            {
+                                "name": "Allowed Roles",
+                                "value": "Sky Worshiper",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "poop": {
+                    "embed": {
+                        "initable": {
+                            "description": "sliceriea"
+                        },
+                        "settable": {},
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "a": {
+                    "embed": {
+                        "initable": {
+                            "description": "description:  |\n  The winners of the regirock raffle are listed below. \n  I apologise for the delay again! I have been quite insanely busy with work!\n  ONE THING TO NOTE ON ALL RAFFLES FROM HERE ON OUT -- I WILL NOT BE CONTACTING OR GIVING ANY PRIZES OUT UNLESS THE WINNER WHO WAS DRAWN/TAGGED CONTACTS ME FOR THE PRIZE. \n  If I do not hear from the winner within 24hours the raffle will restart! \n  If you want it, you will check back regularly to make sure you do not miss your prize.\ncolor: 0xff0000\nauthor:\n  name: Skybot\n  icon_url: https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif\n  url: http://pokepla.net\ntimestamp: Ended July 25th 2019 at 12AM EST\nimage:\n  url: https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif\nthumbnail:\n  url: https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif\nfooter:\n  text: must claim by 12:00AM July 26!\n  icon_url: https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif\nfields:\n  1:\n    name: WINNER OF REGIROCK #1\n    value: @INFERNO#8926\n    inline: True\n  2:\n    name: WINNER OF REGIROCK #2\n    value: @INFERNO#8926\n    inline: True\n  3:\n    name: 10 REGI-RAFFLE WITH 10 WINNERS\n    value: Ends in 2 hours (12am EST) WILL POST WINNERS ASAP AFTER DRAWING \n    inline: False"
+                        },
+                        "settable": {},
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "2": {
+                    "embed": {
+                        "initable": {
+                            "description": "description: |\n  The winners of the regirock raffle are listed below. \n  I apologise for the delay again! I have been quite insanely busy with work!\n  ONE THING TO NOTE ON ALL RAFFLES FROM HERE ON OUT -- I WILL NOT BE CONTACTING OR GIVING ANY PRIZES OUT UNLESS THE WINNER WHO WAS DRAWN/TAGGED CONTACTS ME FOR THE PRIZE. \n  If I do not hear from the winner within 24hours the raffle will restart! \n  If you want it, you will check back regularly to make sure you do not miss your prize.\ncolor: 0xff0000\nauthor:\n  name: Skybot\n  icon_url: https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif\n  url: http://pokepla.net\ntimestamp: Ended July 25th 2019 at 12AM EST\nimage:\n  url: https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif\nthumbnail:\n  url: https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif\nfooter:\n  text: must claim by 12:00AM July 26!\n  icon_url: https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif\nfields:\n  1:\n    name: WINNER OF REGIROCK #1\n    value: @INFERNO#8926\n    inline: True\n  2:\n    name: WINNER OF REGIROCK #2\n    value: @INFERNO#8926\n    inline: True\n  3:\n    name: 10 REGI-RAFFLE WITH 10 WINNERS\n    value: Ends in 2 hours (12am EST) WILL POST WINNERS ASAP AFTER DRAWING \n    inline: False:"
+                        },
+                        "settable": {},
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "to": {
+                    "embed": {
+                        "initable": {
+                            "description": "recap that's \nKRISH 3\nMOUSE\nSTARBUNNYGAMER 2\nCHECKMATE 2\nDARKMATTER 1\nINFERNO (first two giveaways) x2\nAIDAN 1"
+                        },
+                        "settable": {},
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "1": {
+                    "embed": {
+                        "initable": {
+                            "description": "The winners of the regirock raffle are listed below. I apologise for the delay again! I have been quite insanely busy with work! ONE THING TO NOTE ON ALL RAFFLES FROM HERE ON OUT -- I WILL NOT BE CONTACTING OR GIVING ANY PRIZES OUT UNLESS THE WINNER WHO WAS DRAWN/TAGGED CONTACTS ME FOR THE PRIZE. If I do not hear from the winner within 24hours the raffle will restart! If you want it, you will check back regularly to make sure you do not miss your prize.",
+                            "color": 16711680,
+                            "timestamp": 1564045200.0
+                        },
+                        "settable": {
+                            "image": {
+                                "url": "https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif"
+                            },
+                            "thumbnail": {
+                                "url": "https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Skybot",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "must claim by 12:00AM July 26!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "WINNER OF REGIROCK 1",
+                                "value": "INFERNO8926",
+                                "inline": true
+                            },
+                            {
+                                "name": "WINNER OF REGIROCK 2",
+                                "value": "INFERNO8926",
+                                "inline": true
+                            },
+                            {
+                                "name": "10 REGI-RAFFLE WITH 10 WINNERS",
+                                "value": "Ends in 2 hours (12am EST) WILL POST WINNERS ASAP AFTER DRAWING",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "123": {
+                    "embed": {
+                        "initable": {
+                            "description": "The winners of the regirock raffle are listed below. I apologise for the delay again! I have been quite insanely busy with work! ONE THING TO NOTE ON ALL RAFFLES FROM HERE ON OUT -- I WILL NOT BE CONTACTING OR GIVING ANY PRIZES OUT UNLESS THE WINNER WHO WAS DRAWN/TAGGED CONTACTS ME FOR THE PRIZE. If I do not hear from the winner within 24hours the raffle will restart! If you want it, you will check back regularly to make sure you do not miss your prize.",
+                            "color": 16711680,
+                            "timestamp": 1564045200.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Skybot",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "must claim by 12:00AM July 26!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "WINNER OF REGIROCK 1",
+                                "value": "INFERNO8926",
+                                "inline": true
+                            },
+                            {
+                                "name": "WINNER OF REGIROCK 2",
+                                "value": "INFERNO8926",
+                                "inline": true
+                            },
+                            {
+                                "name": "10 REGI-RAFFLE WITH 10 WINNERS",
+                                "value": "KRISH x3",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "1224": {
+                    "embed": {
+                        "initable": {
+                            "description": "The winners of the regirock raffle are listed below. I apologise for the delay again! I have been quite insanely busy with work! ONE THING TO NOTE ON ALL RAFFLES FROM HERE ON OUT -- I WILL NOT BE CONTACTING OR GIVING ANY PRIZES OUT UNLESS THE WINNER WHO WAS DRAWN/TAGGED CONTACTS ME FOR THE PRIZE. If I do not hear from the winner within 24hours the raffle will restart! If you want it, you will check back regularly to make sure you do not miss your prize.",
+                            "color": 16711680,
+                            "timestamp": 1564045200.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://pa1.narvii.com/6772/53d8b3e4382315fa03db1ef638d7d3ff86db0f5e_hq.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Regi-Raffles 1 2 and 3",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "must claim by 12:00AM July 26! Ended",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "WINNER OF REGIROCK 1",
+                                "value": "INFERNO8926",
+                                "inline": true
+                            },
+                            {
+                                "name": "WINNER OF REGIROCK 2",
+                                "value": "INFERNO8926",
+                                "inline": true
+                            },
+                            {
+                                "name": "10 REGI-RAFFLE WITH 10 WINNERS",
+                                "value": "KRISH x3 MOUSE STARBUNNYGAMER x2 CHECKMATE x2 DARKMATTER x1 AIDAN",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "wienerbrigade": {
+                    "embed": {
+                        "initable": {
+                            "description": "I will display the winners of the Giratina raffle and its current status here. If we get 20 more people to join this server Ill add the ORB held item for his Origin Form to every winner. If we reach 30 people invited after this post I will host a Giveaway that only a fool would miss. Member Count at this time is",
+                            "color": 16711680,
+                            "timestamp": 1564207200.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://bit.ly/312CTbR"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Giratina with possible upgrade!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "Invite more ppl to upgrade this giveaway!!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "\u274e 20 Additional Members",
+                                "value": "Giveaway upgraded to Origin Form for all!!",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e 30 Additional Members",
+                                "value": "A Giveaway only Sky is crazy enough to host",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e Bonus Legendary 40-65% for everyone!",
+                                "value": "add Wiener Brigade to your nickname in official and leave it that way for 48hours",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "wiener": {
+                    "embed": {
+                        "initable": {
+                            "description": "I will display the winners of the Giratina raffle and its current status here. If we get 20 more people to join this server Ill add the ORB held item for his Origin Form to every winner. If we reach 30 people invited after this post I will host a Giveaway that only a fool would miss. Member Count at this time is",
+                            "color": 16711680,
+                            "timestamp": 1564207200.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/71bca0c2-b1b0-49b4-9ea2-49ea8250ba4f/d31uas5-7cca9c5a-384e-41af-8c3c-24141862e527.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Giratina with possible upgrade!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "Invite more ppl to upgrade this giveaway!!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "\u274e 20 Additional Members",
+                                "value": "Giveaway upgraded to Origin Form for all!!",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e 30 Additional Members",
+                                "value": "A Giveaway only Sky is crazy enough to host",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e Bonus Legendary 40-65% for everyone!",
+                                "value": "add Wiener Brigade to your nickname in official and leave it that way for 48hours",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "wiens": {
+                    "embed": {
+                        "initable": {
+                            "description": "I will display the winners of the Giratina raffle and its current status here. If we get 20 more people to join this server Ill add the ORB held item for his Origin Form to every winner. If we reach 30 people invited after this post I will host a Giveaway that only a fool would miss. Member Count at this time is 43 so lets make it to 73 for bonuses",
+                            "color": 16711680,
+                            "timestamp": 1564207200.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/71bca0c2-b1b0-49b4-9ea2-49ea8250ba4f/d31uas5-7cca9c5a-384e-41af-8c3c-24141862e527.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Giratina with possible upgrade!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "Invite more ppl to upgrade this giveaway!!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "\u274e 20 Additional Members",
+                                "value": "Giveaway upgraded to Origin Form for all!!",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e 30 Additional Members",
+                                "value": "A Giveaway only Sky is crazy enough to host",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e Bonus Legendary 40-65% for everyone!",
+                                "value": "add Wiener Brigade to your nickname in official and leave it that way for 48hours",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "wumbus": {
+                    "embed": {
+                        "initable": {
+                            "description": "I will display the winners of the Giratina raffle and its current status here. If we get 20 more people to join this server Ill add the ORB held item for his Origin Form to every winner. If we reach 30 people invited after this post I will host a Giveaway that only a fool would miss. Member Count at this time is 43 so lets make it to 73 for bonuses",
+                            "color": 16711680,
+                            "timestamp": 1564128000.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/71bca0c2-b1b0-49b4-9ea2-49ea8250ba4f/d31uas5-7cca9c5a-384e-41af-8c3c-24141862e527.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Giratina with possible upgrade!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "Invite more ppl to upgrade this giveaway!!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "\u274e 20 Additional Members",
+                                "value": "Giveaway upgraded to Origin Form for all!!",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e 30 Additional Members",
+                                "value": "A Giveaway only Sky is crazy enough to host",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e Bonus Legendary 40-65% for everyone!",
+                                "value": "add Wiener Brigade to your nickname in official and leave it that way for 48hours",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "bungs": {
+                    "embed": {
+                        "initable": {
+                            "description": "I will display the winners of the Giratina raffle and its current status here. If we get 20 more people to join this server Ill add the ORB held item for his Origin Form to every winner. If we reach 30 people invited after this post I will host a Giveaway that only a fool would miss. Member Count at this time is 43 so lets make it to 73 for bonuses",
+                            "color": 16711680,
+                            "timestamp": 1564202760.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/71bca0c2-b1b0-49b4-9ea2-49ea8250ba4f/d31uas5-7cca9c5a-384e-41af-8c3c-24141862e527.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Giratina with possible upgrade!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "Invite more ppl to upgrade this giveaway!!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "\u274e 20 Additional Members",
+                                "value": "Giveaway upgraded to Origin Form for all!!",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e 30 Additional Members",
+                                "value": "A Giveaway only Sky is crazy enough to host",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e Bonus Legendary 40-65% for everyone!",
+                                "value": "add Wiener Brigade to your nickname in official and leave it that way for 48hours",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "update": {
+                    "embed": {
+                        "initable": {
+                            "description": "Current time left progress bar! Also progress bars below for the upgrade! This is as of 1 30pm EST July 27th",
+                            "color": 16711680,
+                            "timestamp": 1564214400.0
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/71bca0c2-b1b0-49b4-9ea2-49ea8250ba4f/d31uas5-7cca9c5a-384e-41af-8c3c-24141862e527.gif"
+                            },
+                            "author": {
+                                "url": "http://pokepla.net",
+                                "name": "Giratina \u25b0\u25b0\u25b0\u25b1\u25b1\u25b1\u25b1\u25b1\u25b1\u25b1\u25b1\u25b1",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            },
+                            "footer": {
+                                "text": "Invite more ppl to upgrade this giveaway!!",
+                                "icon_url": "https://forums.pokemon-vortex.com/uploads/monthly_2017_12/pokeball_gif_by_termatior0-dayo3ow.gif.ec3f86b5fdc8c418f1d10d748ac5bf4b.gif"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "\u274e 20 Additional Members",
+                                "value": "\u25b0\u25b0\u25b0\u25b1\u25b1\u25b1\u25b1\u00a0",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e 30 Additional Members",
+                                "value": "\u25b0\u25b0\u25b1\u25b1\u25b1\u25b1\u25b1\u25b1",
+                                "inline": false
+                            },
+                            {
+                                "name": "\u274e Bonus Legendary 40-65% for everyone!",
+                                "value": "add Wiener Brigade to your nickname in official and leave it that way for 48hours",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "yv": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 754 | **Level** 100 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 11 | **Level** 1 | **IV%** 60.22%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 10 | **Level** 1 | **IV%** 58.60%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 777 | **Level** 1 | **IV%** 54.30%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 8 | **Level** 1 | **IV%** 53.76%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 7 | **Level** 1 | **IV%** 53.23%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 12 | **Level** 1 | **IV%** 48.92%\n<:mewbotem:545329612549521409>**Yveltal** | **__No.__** - 14 | **Level** 1 | **IV%** 46.77%\n<:mewbotem:545329612549521409>**Yveltal** | **__No.__** - 16 | **Level** 1 | **IV%** 45.70%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 9 | **Level** 1 | **IV%** 44.09%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 17 | **Level** 1 | **IV%** 43.55%\n<:mewbotem:545329612549521409>**Yveltal** | **__No.__** - 15 | **Level** 1 | **IV%** 42.47%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 917 | **Level** 1 | **IV%** 41.94%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 775 | **Level** 1 | **IV%** 41.40%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 774 | **Level** 1 | **IV%** 39.25%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/2"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom1": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Abomasnow** | **__No.__** - 9285 | **Level** 100 | **IV%** 94.09%\n<:mewbotmale:545329587576373286>**Amoonguss** | **__No.__** - 5978 | **Level** 100 | **IV%** 90.32%\n<:mewbotmale:545329587576373286>**Charmander** | **__No.__** - 17127 | **Level** 13 | **IV%** 90.32%\n<:mewbotmale:545329587576373286>**Swadloon** | **__No.__** - 10173 | **Level** 55 | **IV%** 89.78%\n<:mewbotmale:545329587576373286>**Gyarados** | **__No.__** - 5616 | **Level** 100 | **IV%** 89.78%\n<:mewbotmale:545329587576373286>**Latios-mega** | **__No.__** - 16522 | **Level** 100 | **IV%** 89.78%\n<:mewbotmale:545329587576373286>**Venusaur** | **__No.__** - 859 | **Level** 100 | **IV%** 88.71%\n<:mewbotmale:545329587576373286>**Rhyperior** | **__No.__** - 6373 | **Level** 100 | **IV%** 88.71%\n<:mewbotmale:545329587576373286>**Magikarp** | **__No.__** - 8945 | **Level** 11 | **IV%** 88.17%\n<:mewbotem:545329612549521409>**Sceptile** | **__No.__** - 1983 | **Level** 100 | **IV%** 87.63%\n<:mewbotmale:545329587576373286>**Feraligatr** | **__No.__** - 12170 | **Level** 100 | **IV%** 87.63%\n<:mewbotmale:545329587576373286>**Treecko** | **__No.__** - 15844 | **Level** 5 | **IV%** 87.10%\n<:mewbotmale:545329587576373286>**Fennekin** | **__No.__** - 15885 | **Level** 5 | **IV%** 86.56%\n<:mewbotmale:545329587576373286>**Magikarp** | **__No.__** - 9523 | **Level** 18 | **IV%** 86.02%\n<:mewbotmale:545329587576373286>**Scrafty** | **__No.__** - 16204 | **Level** 100 | **IV%** 86.02%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/1176"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom2": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Infernape** | **__No.__** - 9501 | **Level** 100 | **IV%** 86.02%\n<:mewbotmale:545329587576373286>**Charizard** | **__No.__** - 2788 | **Level** 100 | **IV%** 86.02%\n<:mewbotmale:545329587576373286>**Axew** | **__No.__** - 17566 | **Level** 5 | **IV%** 85.48%\n<:mewbotmale:545329587576373286>**Egg** | **__No.__** - 17551 | **Level** 5 | **IV%** 85.48%\n<:mewbotmale:545329587576373286>**Bouffalant** | **__No.__** - 9512 | **Level** 100 | **IV%** 85.48%\n<:mewbotmale:545329587576373286>**Aipom** | **__No.__** - 10032 | **Level** 34 | **IV%** 84.95%\n<:mewbotmale:545329587576373286>**Seismitoad** | **__No.__** - 2483 | **Level** 100 | **IV%** 84.95%\n<:mewbotmale:545329587576373286>**Carracosta** | **__No.__** - 10183 | **Level** 100 | **IV%** 84.41%\n<:mewbotmale:545329587576373286>**Rockruff** | **__No.__** - 16012 | **Level** 57 | **IV%** 83.87%\n<:mewbotmale:545329587576373286>**Snorlax** | **__No.__** - 8932 | **Level** 14 | **IV%** 83.87%\n<:mewbotmale:545329587576373286>**Whiscash** | **__No.__** - 1883 | **Level** 100 | **IV%** 83.87%\n<:mewbotmale:545329587576373286>**Charmander** | **__No.__** - 15677 | **Level** 5 | **IV%** 83.87%\n<:mewbotmale:545329587576373286>**Froakie** | **__No.__** - 3504 | **Level** 5 | **IV%** 83.87%\n<:mewbotmale:545329587576373286>**Kartana** | **__No.__** - 16464 | **Level** 100 | **IV%** 83.33%\n<:mewbotmale:545329587576373286>**Swampert-mega** | **__No.__** - 8655 | **Level** 100 | **IV%** 83.33%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "2/1176"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom3": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotem:545329612549521409>**Ludicolo** | **__No.__** - 16575 | **Level** 1 | **IV%** 83.33%\n<:mewbotmale:545329587576373286>**Tentacruel** | **__No.__** - 10188 | **Level** 100 | **IV%** 83.33%\n<:mewbotmale:545329587576373286>**Pikipek** | **__No.__** - 8481 | **Level** 8 | **IV%** 82.80%\n:star2:<:mewbotmale:545329587576373286>**Arcanine** | **__No.__** - 17133 | **Level** 100 | **IV%** 82.80%\n<:mewbotmale:545329587576373286>**Snorlax** | **__No.__** - 16558 | **Level** 5 | **IV%** 82.80%\n<:mewbotmale:545329587576373286>**Egg** | **__No.__** - 17523 | **Level** 5 | **IV%** 82.80%\n<:mewbotmale:545329587576373286>**Wishiwashi-school** | **__No.__** - 3633 | **Level** 100 | **IV%** 82.26%\n<:mewbotem:545329612549521409>**Sceptile** | **__No.__** - 10213 | **Level** 100 | **IV%** 81.72%\n<:mewbotmale:545329587576373286>**Totodile** | **__No.__** - 16557 | **Level** 5 | **IV%** 81.18%\n<:mewbotmale:545329587576373286>**Charmander** | **__No.__** - 2201 | **Level** 5 | **IV%** 81.18%\n<:mewbotmale:545329587576373286>**Magikarp** | **__No.__** - 16470 | **Level** 5 | **IV%** 81.18%\n<:mewbotem:545329612549521409>**Fennekin** | **__No.__** - 9504 | **Level** 5 | **IV%** 81.18%\n<:mewbotmale:545329587576373286>**Gurdurr** | **__No.__** - 5197 | **Level** 57 | **IV%** 81.18%\n<:mewbotmale:545329587576373286>**Treecko** | **__No.__** - 1628 | **Level** 5 | **IV%** 81.18%\n<:mewbotem:545329612549521409>**Frogadier** | **__No.__** - 1444 | **Level** 29 | **IV%** 80.65%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "3/1176"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom4": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotem:545329612549521409>**Frogadier** | **__No.__** - 9386 | **Level** 6 | **IV%** 80.65%\n<:mewbotem:545329612549521409>**Greninja** | **__No.__** - 5249 | **Level** 100 | **IV%** 80.65%\n<:mewbotmale:545329587576373286>**Charmander** | **__No.__** - 16536 | **Level** 5 | **IV%** 80.65%\n<:mewbotmale:545329587576373286>**Lotad** | **__No.__** - 16579 | **Level** 5 | **IV%** 80.11%\n<:mewbotmale:545329587576373286>**Diancie** | **__No.__** - 17585 | **Level** 100 | **IV%** 80.11%\n<:mewbotmale:545329587576373286>**Egg** | **__No.__** - 17548 | **Level** 5 | **IV%** 80.11%\n<:mewbotmale:545329587576373286>**Roserade** | **__No.__** - 16038 | **Level** 12 | **IV%** 79.57%\n<:mewbotmale:545329587576373286>**Magikarp** | **__No.__** - 9524 | **Level** 5 | **IV%** 79.57%\n:star2:<:mewbotem:545329612549521409>**Darmanitan** | **__No.__** - 6384 | **Level** 100 | **IV%** 79.57%\n<:mewbotmale:545329587576373286>**Froakie** | **__No.__** - 5696 | **Level** 5 | **IV%** 79.57%\n<:mewbotmale:545329587576373286>**Charizard-mega-y** | **__No.__** - 924 | **Level** 100 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Grovyle** | **__No.__** - 17565 | **Level** 21 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Charmander** | **__No.__** - 16540 | **Level** 5 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Groudon** | **__No.__** - 17363 | **Level** 100 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Gorebyss** | **__No.__** - 3585 | **Level** 1 | **IV%** 79.03%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "4/1176"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom5": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Diancie** | **__No.__** - 17585 | **Level** 100 | **IV%** 80.11%\n<:mewbotmale:545329587576373286>**Groudon** | **__No.__** - 17363 | **Level** 100 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Virizion** | **__No.__** - 16471 | **Level** 100 | **IV%** 77.96%\n<:mewbotmale:545329587576373286>**Lugia** | **__No.__** - 11226 | **Level** 1 | **IV%** 77.42%\n<:mewbotmale:545329587576373286>**Hoopa** | **__No.__** - 17503 | **Level** 100 | **IV%** 75.27%\n<:mewbotmale:545329587576373286>**Rotom** | **__No.__** - 16503 | **Level** 5 | **IV%** 74.19%\n<:mewbotmale:545329587576373286>**Zeraora** | **__No.__** - 16231 | **Level** 100 | **IV%** 74.19%\n<:mewbotmale:545329587576373286>**Entei** | **__No.__** - 1864 | **Level** 100 | **IV%** 72.58%\n<:mewbotmale:545329587576373286>**Marshadow** | **__No.__** - 16044 | **Level** 100 | **IV%** 72.58%\n<:mewbotmale:545329587576373286>**Dialga** | **__No.__** - 5255 | **Level** 1 | **IV%** 71.51%\n<:mewbotmale:545329587576373286>**Hoopa** | **__No.__** - 17507 | **Level** 100 | **IV%** 69.89%\n<:mewbotmale:545329587576373286>**Zekrom** | **__No.__** - 17607 | **Level** 1 | **IV%** 69.35%\n<:mewbotmale:545329587576373286>**Rotom** | **__No.__** - 5238 | **Level** 100 | **IV%** 69.35%\n<:mewbotmale:545329587576373286>**Dialga** | **__No.__** - 3981 | **Level** 1 | **IV%** 68.28%\n<:mewbotmale:545329587576373286>**Darkrai** | **__No.__** - 16448 | **Level** 100 | **IV%** 68.28%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/24"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom6": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Darkrai** | **__No.__** - 17109 | **Level** 1 | **IV%** 67.74%\n<:mewbotmale:545329587576373286>**Melmetal** | **__No.__** - 17125 | **Level** 1 | **IV%** 67.74%\n<:mewbotmale:545329587576373286>**Kyogre** | **__No.__** - 16698 | **Level** 1 | **IV%** 66.67%\n<:mewbotmale:545329587576373286>**Zapdos** | **__No.__** - 16713 | **Level** 100 | **IV%** 66.13%\n<:mewbotmale:545329587576373286>**Articuno** | **__No.__** - 6389 | **Level** 100 | **IV%** 65.59%\n<:mewbotmale:545329587576373286>**Zekrom** | **__No.__** - 17611 | **Level** 1 | **IV%** 65.59%\n<:mewbotmale:545329587576373286>**Arceus** | **__No.__** - 16696 | **Level** 1 | **IV%** 65.59%\n<:mewbotmale:545329587576373286>**Zeraora** | **__No.__** - 8440 | **Level** 100 | **IV%** 65.05%\n<:mewbotmale:545329587576373286>**Lugia** | **__No.__** - 2231 | **Level** 100 | **IV%** 65.05%\n<:mewbotmale:545329587576373286>**Yveltal** | **__No.__** - 1984 | **Level** 100 | **IV%** 65.05%\n<:mewbotmale:545329587576373286>**Zeraora** | **__No.__** - 16462 | **Level** 1 | **IV%** 64.52%\n<:mewbotmale:545329587576373286>**Kyurem** | **__No.__** - 17489 | **Level** 100 | **IV%** 64.52%\n<:mewbotmale:545329587576373286>**Regigigas** | **__No.__** - 16589 | **Level** 1 | **IV%** 64.52%\n<:mewbotmale:545329587576373286>**Zekrom** | **__No.__** - 15789 | **Level** 100 | **IV%** 64.52%\n<:mewbotmale:545329587576373286>**Lugia** | **__No.__** - 8600 | **Level** 34 | **IV%** 63.98%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "2/24"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom7": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Darkrai** | **__No.__** - 17110 | **Level** 1 | **IV%** 63.98%\n<:mewbotmale:545329587576373286>**Volcanion** | **__No.__** - 1635 | **Level** 1 | **IV%** 63.98%\n<:mewbotmale:545329587576373286>**Lugia** | **__No.__** - 3214 | **Level** 100 | **IV%** 63.44%\n<:mewbotmale:545329587576373286>**Melmetal** | **__No.__** - 16810 | **Level** 1 | **IV%** 62.90%\n<:mewbotem:545329612549521409>**Heatran** | **__No.__** - 16725 | **Level** 1 | **IV%** 62.37%\n<:mewbotmale:545329587576373286>**Zeraora** | **__No.__** - 15714 | **Level** 1 | **IV%** 62.37%\n<:mewbotmale:545329587576373286>**Dialga** | **__No.__** - 6003 | **Level** 1 | **IV%** 62.37%\n<:mewbotmale:545329587576373286>**Zeraora** | **__No.__** - 15723 | **Level** 1 | **IV%** 62.37%\n<:mewbotmale:545329587576373286>**Groudon** | **__No.__** - 2177 | **Level** 100 | **IV%** 62.37%\n<:mewbotmale:545329587576373286>**Dialga** | **__No.__** - 3970 | **Level** 100 | **IV%** 62.37%\n<:mewbotmale:545329587576373286>**Melmetal** | **__No.__** - 17123 | **Level** 1 | **IV%** 61.83%\n<:mewbotmale:545329587576373286>**Hoopa** | **__No.__** - 17506 | **Level** 1 | **IV%** 61.83%\n<:mewbotmale:545329587576373286>**Kyogre** | **__No.__** - 4015 | **Level** 1 | **IV%** 61.83%\n<:mewbotmale:545329587576373286>**Zygarde** | **__No.__** - 8888 | **Level** 1 | **IV%** 61.83%\n<:mewbotmale:545329587576373286>**Lugia** | **__No.__** - 8644 | **Level** 100 | **IV%** 61.83%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "3/24"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom8": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotem:545329612549521409>**Zeraora** | **__No.__** - 15707 | **Level** 1 | **IV%** 61.29%\n<:mewbotmale:545329587576373286>**Necrozma** | **__No.__** - 9562 | **Level** 1 | **IV%** 61.29%\n<:mewbotmale:545329587576373286>**Tapu-fini** | **__No.__** - 9572 | **Level** 1 | **IV%** 61.29%\n<:mewbotmale:545329587576373286>**Virizion** | **__No.__** - 5533 | **Level** 1 | **IV%** 60.75%\n<:mewbotmale:545329587576373286>**Zekrom** | **__No.__** - 17606 | **Level** 1 | **IV%** 60.75%\n<:mewbotmale:545329587576373286>**Regigigas** | **__No.__** - 16705 | **Level** 100 | **IV%** 60.75%\n<:mewbotmale:545329587576373286>**Hoopa** | **__No.__** - 17501 | **Level** 1 | **IV%** 60.75%\n<:mewbotmale:545329587576373286>**Tapu-lele** | **__No.__** - 16477 | **Level** 1 | **IV%** 60.22%\n<:mewbotmale:545329587576373286>**Volcanion** | **__No.__** - 1634 | **Level** 100 | **IV%** 60.22%\n<:mewbotmale:545329587576373286>**Kyurem** | **__No.__** - 17474 | **Level** 1 | **IV%** 60.22%\n<:mewbotmale:545329587576373286>**Reshiram** | **__No.__** - 15805 | **Level** 1 | **IV%** 60.22%\n<:mewbotmale:545329587576373286>**Reshiram** | **__No.__** - 15791 | **Level** 1 | **IV%** 59.68%\n<:mewbotem:545329612549521409>**Cresselia** | **__No.__** - 16682 | **Level** 1 | **IV%** 59.68%\n<:mewbotem:545329612549521409>**Zeraora** | **__No.__** - 15729 | **Level** 1 | **IV%** 59.14%\n<:mewbotmale:545329587576373286>**Celebi** | **__No.__** - 1778 | **Level** 100 | **IV%** 59.14%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "4/24"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom9": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Kartana** | **__No.__** - 16464 | **Level** 100 | **IV%** 83.33%\n<:mewbotmale:545329587576373286>**Xurkitree** | **__No.__** - 16041 | **Level** 100 | **IV%** 76.88%\n<:mewbotmale:545329587576373286>**Stakataka** | **__No.__** - 8678 | **Level** 100 | **IV%** 69.89%\n<:mewbotmale:545329587576373286>**Buzzwole** | **__No.__** - 16518 | **Level** 100 | **IV%** 68.28%\n<:mewbotmale:545329587576373286>**Naganadel** | **__No.__** - 16689 | **Level** 1 | **IV%** 67.74%\n<:mewbotmale:545329587576373286>**Pheromosa** | **__No.__** - 3256 | **Level** 100 | **IV%** 67.74%\n<:mewbotmale:545329587576373286>**Buzzwole** | **__No.__** - 16515 | **Level** 1 | **IV%** 65.05%\n<:mewbotmale:545329587576373286>**Xurkitree** | **__No.__** - 16502 | **Level** 4 | **IV%** 63.44%\n<:mewbotmale:545329587576373286>**Nihilego** | **__No.__** - 8540 | **Level** 100 | **IV%** 62.90%\n<:mewbotmale:545329587576373286>**Kartana** | **__No.__** - 5532 | **Level** 1 | **IV%** 61.29%\n<:mewbotmale:545329587576373286>**Xurkitree** | **__No.__** - 8697 | **Level** 1 | **IV%** 59.68%\n<:mewbotmale:545329587576373286>**Blacephalon** | **__No.__** - 2746 | **Level** 1 | **IV%** 59.14%\n<:mewbotmale:545329587576373286>**Xurkitree** | **__No.__** - 8687 | **Level** 1 | **IV%** 59.14%\n<:mewbotmale:545329587576373286>**Pheromosa** | **__No.__** - 3253 | **Level** 3 | **IV%** 58.60%\n<:mewbotmale:545329587576373286>**Blacephalon** | **__No.__** - 6420 | **Level** 100 | **IV%** 58.06%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/5"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom10": {
+                    "embed": {
+                        "initable": {
+                            "description": ":star2:<:mewbotmale:545329587576373286>**Arcanine** | **__No.__** - 17133 | **Level** 100 | **IV%** 82.80%\n:star2:<:mewbotem:545329612549521409>**Darmanitan** | **__No.__** - 6384 | **Level** 100 | **IV%** 79.57%\n:star2:<:mewbotem:545329612549521409>**Magmortar** | **__No.__** - 3098 | **Level** 1 | **IV%** 70.43%\n:star2:<:mewbotmale:545329587576373286>**Sudowoodo** | **__No.__** - 17577 | **Level** 1 | **IV%** 67.74%\n:star2:<:mewbotem:545329612549521409>**Roserade** | **__No.__** - 9391 | **Level** 100 | **IV%** 63.44%\n:star2:<:mewbotem:545329612549521409>**Rattata-alola** | **__No.__** - 16241 | **Level** 1 | **IV%** 61.83%\n:star2:<:mewbotmale:545329587576373286>**Drapion** | **__No.__** - 2087 | **Level** 100 | **IV%** 60.75%\n:star2:<:mewbotmale:545329587576373286>**Archeops** | **__No.__** - 17605 | **Level** 1 | **IV%** 60.22%\n:star2:<:mewbotem:545329612549521409>**Araquanid** | **__No.__** - 15731 | **Level** 100 | **IV%** 60.22%\n:star2:<:mewbotmale:545329587576373286>**Kingdra** | **__No.__** - 16673 | **Level** 1 | **IV%** 59.14%\n:star2:<:mewbotmale:545329587576373286>**Incineroar** | **__No.__** - 15857 | **Level** 100 | **IV%** 58.60%\n:star2:<:mewbotem:545329612549521409>**Muk** | **__No.__** - 10212 | **Level** 1 | **IV%** 58.60%\n:star2:<:mewbotem:545329612549521409>**Toxicroak** | **__No.__** - 4081 | **Level** 100 | **IV%** 57.53%\n:star2:<:mewbotmale:545329587576373286>**Empoleon** | **__No.__** - 4843 | **Level** 100 | **IV%** 55.91%\n:star2:<:mewbotmale:545329587576373286>**Scrafty** | **__No.__** - 868 | **Level** 100 | **IV%** 52.15%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/2"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom11": {
+                    "embed": {
+                        "initable": {
+                            "description": ":star2:<:mewbotmale:545329587576373286>**Magneton** | **__No.__** - 17119 | **Level** 46 | **IV%** 50.54%\n:star2:<:mewbotem:545329612549521409>**Arbok** | **__No.__** - 16234 | **Level** 1 | **IV%** 48.39%\n:star2:<:mewbotmale:545329587576373286>**Wynaut** | **__No.__** - 16592 | **Level** 1 | **IV%** 43.01%\n:star2:<:mewbotem:545329612549521409>**Mismagius** | **__No.__** - 17073 | **Level** 93 | **IV%** 41.40%\n:star2:<:mewbotmale:545329587576373286>**Zoroark** | **__No.__** - 5539 | **Level** 100 | **IV%** 41.40%\n:star2:<:mewbotem:545329612549521409>**Delphox** | **__No.__** - 17534 | **Level** 1 | **IV%** 41.40%\n:star2:<:mewbotem:545329612549521409>**Rampardos** | **__No.__** - 16812 | **Level** 100 | **IV%** 40.86%\n:star2:<:mewbotem:545329612549521409>**Dugtrio-alola** | **__No.__** - 3976 | **Level** 100 | **IV%** 39.78%\n:star2:<:mewbotem:545329612549521409>**Vikavolt** | **__No.__** - 17583 | **Level** 33 | **IV%** 38.71%\n:star2:<:mewbotmale:545329587576373286>**Pidgeot-mega** | **__No.__** - 5529 | **Level** 100 | **IV%** 36.02%\n:star2:<:mewbotmale:545329587576373286>**Houndoom** | **__No.__** - 16232 | **Level** 100 | **IV%** 34.95%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "2/2"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "doom12": {
+                    "embed": {
+                        "initable": {
+                            "description": "Zygarde-complete | No. - 8905 | Level 100 | IV% 68.28%\nGenesect-douse | No. - 17595 | Level 100 | IV% 70.97%\nGenesect-douse | No. - 2218 | Level 1 | IV% 47.31%\nHoopa-unbound | No. - 2217 | Level 100 | IV% 69.89%\nShaymin-sky | No. - 8885 | Level 100 | IV% 78.49%\nLugia-shadow | No. - 3221 | Level 100 | IV% 67.20%\nLugia-shadow | No. - 3226 | Level 100 | IV% 74.19%\nNecrozma-ultra | No. - 9406 | Level 100 | IV% 67.20%\nDialga-primal | No. - 6004 | Level 100 | IV% 66.13%\nKyurem-black | No. - 17483 | Level 100 | IV% 72.58%",
+                            "color": 2895667,
+                            "title": "Dooms legendary forms"
+                        },
+                        "settable": {
+                            "thumbnail": {
+                                "url": "https://cdn.discordapp.com/avatars/548255438999912478/6e48617428b9dbccabe408716380bbc0.webp?size=1024"
+                            },
+                            "author": {
+                                "name": "Skylarr",
+                                "icon_url": "https://cdn.discordapp.com/avatars/474104220770107392/1e932be0c6d7ba8bd88dab277b5c5c09.webp?size=1024"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "bust": {
+                    "embed": {
+                        "initable": {
+                            "description": "**Sceptile-mega** | **__Number__** - 2817 | **Level** - 100 | IV% - **85.48%**      \n**Weavile** | **__Number__** - 2837 | **Level** - 100 | IV% - **75.27%**      \n**Metagross-mega** | **__Number__** - 2785 | **Level** - 100 | IV% - **74.73%**      \n**Mimikyu** | **__Number__** - 901 | **Level** - 100 | IV% - **68.28%**      \n**Deoxys** | **__Number__** - 2787 | **Level** - 100 | IV% - **50.54%**      \n**Banette-mega** | **__Number__** - 1031 | **Level** - 100 | IV% - **71.51%**      \n**Empoleon** | **__Number__** - 1014 | **Level** - 100 | IV% - **70.43%**      \n**Darkrai** | **__Number__** - 2579 | **Level** - 100 | IV% - **72.58%**      \n**Cloyster** | **__Number__** - 1152 | **Level** - 100 | IV% - **72.04%**      \n**Golisopod** | **__Number__** - 2901 | **Level** - 100 | IV% - **66.13%**      \n**Charizard-mega-y** | **__Number__** - 2738 | **Level** - 100 | IV% - **83.87%**      \n**Tyranitar** | **__Number__** - 2665 | **Level** - 100 | IV% - **68.28%**",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "Upvote the Bot!! Open the next page with ;fav <page_number> | This is page 1 of 1"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "bust2": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Sceptile-mega** | **__No.__** - 2817 | **Level** 100 | **IV%** 85.48%\n<:mewbotmale:545329587576373286>**Charizard-mega-y** | **__No.__** - 2738 | **Level** 100 | **IV%** 83.87%\n<:mewbotmale:545329587576373286>**Dewgong** | **__No.__** - 2654 | **Level** 100 | **IV%** 79.03%\n<:mewbotem:545329612549521409>**Weavile** | **__No.__** - 2837 | **Level** 100 | **IV%** 75.27%\n<:mewbotmale:545329587576373286>**Metagross-mega** | **__No.__** - 2785 | **Level** 100 | **IV%** 74.73%\n<:mewbotmale:545329587576373286>**Darkrai** | **__No.__** - 2579 | **Level** 100 | **IV%** 72.58%\n<:mewbotmale:545329587576373286>**Cloyster** | **__No.__** - 1152 | **Level** 100 | **IV%** 72.04%\n<:mewbotmale:545329587576373286>**Banette-mega** | **__No.__** - 1031 | **Level** 100 | **IV%** 71.51%\n<:mewbotmale:545329587576373286>**Empoleon** | **__No.__** - 1014 | **Level** 100 | **IV%** 70.43%\n<:mewbotmale:545329587576373286>**Sharpedo** | **__No.__** - 117 | **Level** 100 | **IV%** 69.35%\n<:mewbotmale:545329587576373286>**Komala** | **__No.__** - 1267 | **Level** 100 | **IV%** 68.82%\n<:mewbotmale:545329587576373286>**Mimikyu** | **__No.__** - 901 | **Level** 100 | **IV%** 68.28%\n<:mewbotmale:545329587576373286>**Tyranitar** | **__No.__** - 2665 | **Level** 100 | **IV%** 68.28%\n<:mewbotmale:545329587576373286>**Weavile** | **__No.__** - 2836 | **Level** 100 | **IV%** 67.20%\n<:mewbotmale:545329587576373286>**Pyroar** | **__No.__** - 285 | **Level** 100 | **IV%** 66.67%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/3"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "bust3": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Deoxys** | **__No.__** - 2787 | **Level** 100 | **IV%** 50.54%\n<:mewbotmale:545329587576373286>**Darkrai** | **__No.__** - 2579 | **Level** 100 | **IV%** 72.58%\n<:mewbotmale:545329587576373286>**Hoopa** | **__No.__** - 2758 | **Level** 100 | **IV%** 32.26%\n<:mewbotmale:545329587576373286>**Phione** | **__No.__** - 2876 | **Level** 21 | **IV%** 61.29%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/1"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                },
+                "bust4": {
+                    "embed": {
+                        "initable": {
+                            "color": 15656519,
+                            "title": "Your Current Party!"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "Your Current Pokemon Party | use ;party add <slot_number> to add a selected Pokemon"
+                            }
+                        },
+                        "fields": [
+                            {
+                                "name": "Slot 1 Pokemon",
+                                "value": "Darkrai [2579]",
+                                "inline": true
+                            },
+                            {
+                                "name": "Slot 2 Pokemon",
+                                "value": "Weavile [2837]",
+                                "inline": true
+                            },
+                            {
+                                "name": "Slot 3 Pokemon",
+                                "value": "Sharpedo [117]",
+                                "inline": true
+                            },
+                            {
+                                "name": "Slot 4 Pokemon",
+                                "value": "Krookodile [2396]",
+                                "inline": true
+                            },
+                            {
+                                "name": "Slot 5 Pokemon",
+                                "value": "Tyranitar [2665]",
+                                "inline": true
+                            },
+                            {
+                                "name": "Slot 6 Pokemon",
+                                "value": "Pangoro [1096]",
+                                "inline": true
+                            }
+                        ]
+                    },
+                    "owner": 474104220770107392
+                },
+                "bust5": {
+                    "embed": {
+                        "initable": {
+                            "description": "<:mewbotmale:545329587576373286>**Dewgong** | **__No.__** - 2654 | **Level** 100 | **IV%** 79.03%\n<:mewbotmale:545329587576373286>**Sceptile-mega** | **__No.__** - 2817 | **Level** 100 | **IV%** 85.48%\n<:mewbotem:545329612549521409>**Weavile** | **__No.__** - 2837 | **Level** 100 | **IV%** 75.27%\n<:mewbotmale:545329587576373286>**Metagross-mega** | **__No.__** - 2785 | **Level** 100 | **IV%** 74.73%\n<:mewbotmale:545329587576373286>**Houndoom** | **__No.__** - 647 | **Level** 100 | **IV%** 39.78%\n<:mewbotmale:545329587576373286>**Rhyperior** | **__No.__** - 2 | **Level** 100 | **IV%** 38.17%\n<:mewbotmale:545329587576373286>**Sharpedo** | **__No.__** - 117 | **Level** 100 | **IV%** 69.35%\n<:mewbotmale:545329587576373286>**Malamar** | **__No.__** - 186 | **Level** 100 | **IV%** 63.44%\n<:mewbotmale:545329587576373286>**Pyroar** | **__No.__** - 285 | **Level** 100 | **IV%** 66.67%\n<:mewbotmale:545329587576373286>**Mimikyu** | **__No.__** - 901 | **Level** 100 | **IV%** 68.28%\n<:mewbotmale:545329587576373286>**Deoxys** | **__No.__** - 2787 | **Level** 100 | **IV%** 50.54%\n<:mewbotmale:545329587576373286>**Raichu** | **__No.__** - 917 | **Level** 100 | **IV%** 55.38%\n<:mewbotmale:545329587576373286>**Banette-mega** | **__No.__** - 1031 | **Level** 100 | **IV%** 71.51%\n<:mewbotmale:545329587576373286>**Empoleon** | **__No.__** - 1014 | **Level** 100 | **IV%** 70.43%\n<:mewbotmale:545329587576373286>**Darkrai** | **__No.__** - 2579 | **Level** 100 | **IV%** 72.58%",
+                            "color": 16758465,
+                            "title": "Your Pokemon"
+                        },
+                        "settable": {
+                            "footer": {
+                                "text": "1/3"
+                            }
+                        },
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                }
+            },
+            "603655349576400926": {
+                "a": {
+                    "embed": {
+                        "initable": {
+                            "description": "<@334155028170407949>"
+                        },
+                        "settable": {},
+                        "fields": []
+                    },
+                    "owner": 474104220770107392
+                }
+            },
+            "356196557336346627": {
+                "poop": {
+                    "owner": 474104220770107392,
+                    "embed": {
+                        "initable": {
+                            "description": "<aemoji_31605522355984269312>"
+                        },
+                        "settable": {},
+                        "fields": []
+                    }
+                },
+                "crap": {
+                    "owner": 474104220770107392,
+                    "embed": {
+                        "initable": {
+                            "description": "<a<:emoji_31:610553247286951946>605522355984269312:>"
+                        },
+                        "settable": {},
+                        "fields": []
+                    }
+                }
+            }
+        },
+        "GLOBAL": {}
+    }
+}

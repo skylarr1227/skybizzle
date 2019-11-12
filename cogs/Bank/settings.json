@@ -1,0 +1,464 @@
+{
+    "384734293238749": {
+        "GUILD": {
+            "535111954021351425": {
+                "bank_name": "SKYBANK MOTHAFUCKA",
+                "currency": "<a:emoji_53:595724838790758441>",
+                "default_balance": 250
+            }
+        },
+        "GLOBAL": {
+            "bank_name": "The Federal Reserve",
+            "currency": "<a:emoji_56:620462303266996234>",
+            "default_balance": 3000,
+            "is_global": true
+        },
+        "USER": {
+            "304702698580738048": {
+                "balance": 13309,
+                "created_at": 1564357540,
+                "name": "\u2718Serdar\u2718"
+            },
+            "474104220770107392": {
+                "balance": 494,
+                "created_at": 1564357559,
+                "name": "Skylarr"
+            },
+            "583751544739069963": {
+                "balance": 279329,
+                "created_at": 1564363233,
+                "name": "misty"
+            },
+            "515198718887067658": {
+                "balance": 0,
+                "created_at": 1564525943,
+                "name": "Sarudaru Altie"
+            },
+            "588429509817008129": {
+                "balance": 5547,
+                "created_at": 1564562797,
+                "name": "Estelle \u2605"
+            },
+            "383105414171983875": {
+                "balance": 1614212,
+                "created_at": 1564601904,
+                "name": "teh Sins Within Us"
+            },
+            "590322888133836801": {
+                "balance": 0,
+                "created_at": 1564626440,
+                "name": "X.Kunoichi.X"
+            },
+            "525697999821602848": {
+                "balance": 33454,
+                "created_at": 1564626440,
+                "name": "Will Sand (WoolooGang)"
+            },
+            "401090441610788877": {
+                "balance": 13664,
+                "created_at": 1564626440,
+                "name": "Masoon"
+            },
+            "364242703275261953": {
+                "balance": 146063,
+                "created_at": 1564630162,
+                "name": "Krypt"
+            },
+            "548255438999912478": {
+                "balance": 1105,
+                "created_at": 1564643229,
+                "name": "[+]Skybot REBORN"
+            },
+            "519850436899897346": {
+                "balance": 99945,
+                "created_at": 1564643529,
+                "name": "Mewbot"
+            },
+            "552007836192997396": {
+                "balance": 0,
+                "created_at": 1564653751,
+                "name": "Velvet"
+            },
+            "338083404094373890": {
+                "balance": 606557,
+                "created_at": 1564712552,
+                "name": "Red The Alchemist"
+            },
+            "206147275775279104": {
+                "balance": 1605,
+                "created_at": 1564718852,
+                "name": "Pokedex"
+            },
+            "606723779003154454": {
+                "balance": 2850,
+                "created_at": 1564739504,
+                "name": "anastasia93"
+            },
+            "409149408681263104": {
+                "balance": 68033,
+                "created_at": 1564899326,
+                "name": "Zak"
+            },
+            "556075484882927616": {
+                "balance": 3015,
+                "created_at": 1564899575,
+                "name": "koolkid22"
+            },
+            "412911697322573835": {
+                "balance": 76172,
+                "created_at": 1564946657,
+                "name": "Harley Quinn"
+            },
+            "334155028170407949": {
+                "balance": 410962,
+                "created_at": 1565035071,
+                "name": "l Foreboding l"
+            },
+            "355624983306960916": {
+                "balance": 111554,
+                "created_at": 1565035072,
+                "name": "GaRuDa"
+            },
+            "536185164020187148": {
+                "balance": 3069475,
+                "created_at": 1565157654,
+                "name": "Volpe"
+            },
+            "324456745370124299": {
+                "balance": 33850,
+                "created_at": 1565191834,
+                "name": "Dark Destroyer"
+            },
+            "441612315759083533": {
+                "balance": 16540,
+                "created_at": 1565224748,
+                "name": "Dae \ud83d\udc32"
+            },
+            "349369364014956544": {
+                "balance": 77304,
+                "created_at": 1565253209,
+                "name": "Malex"
+            },
+            "323865119907905536": {
+                "balance": 1683,
+                "created_at": 1565291986,
+                "name": "death"
+            },
+            "462416556853559306": {
+                "balance": 31741,
+                "created_at": 1565319430,
+                "name": "kungfuartist"
+            },
+            "247387002536722434": {
+                "balance": 1849,
+                "created_at": 1565385049,
+                "name": "GoldenDeerJeans37 (WoolooGang)"
+            },
+            "580959695087337479": {
+                "balance": 118709,
+                "created_at": 1565385050,
+                "name": "\u2139 \ud83c\udd70\u24c2 \u03af\u0274\u03b5\u03bd\u03af\u03c4\u03bb\u00df\u03b9\u03b5"
+            },
+            "255185542415646741": {
+                "balance": 238466,
+                "created_at": 1565393586,
+                "name": "DefinitelyNOTKryptsAlt"
+            },
+            "154049270348120064": {
+                "balance": 0,
+                "created_at": 1565400881,
+                "name": "Jordant"
+            },
+            "411588352794558474": {
+                "balance": 4794,
+                "created_at": 1565401324,
+                "name": "Byleth"
+            },
+            "597610207773851688": {
+                "balance": 58937,
+                "created_at": 1565465046,
+                "name": "PORYGOD \u2661PORYGON\u2661"
+            },
+            "567873023286444040": {
+                "balance": 1397,
+                "created_at": 1565477119,
+                "name": "Potatos"
+            },
+            "414441909520433155": {
+                "balance": 3865421,
+                "created_at": 1565753861,
+                "name": "DarkMatter"
+            },
+            "466093365746991104": {
+                "balance": 255319,
+                "created_at": 1565753987,
+                "name": "Indoraptor"
+            },
+            "330373507189964800": {
+                "balance": 153704,
+                "created_at": 1565755412,
+                "name": "Njwolf3"
+            },
+            "573875022578450432": {
+                "balance": 4034,
+                "created_at": 1565851632,
+                "name": "Rofl"
+            },
+            "551443801466470450": {
+                "balance": 2213,
+                "created_at": 1565881676,
+                "name": "Ron"
+            },
+            "462242543548104705": {
+                "balance": 19860,
+                "created_at": 1565902065,
+                "name": "potato-senpai"
+            },
+            "553445960907358239": {
+                "balance": 38600,
+                "created_at": 1565934019,
+                "name": "(Team Vees) seeyouagain"
+            },
+            "608817713124737035": {
+                "balance": 5412,
+                "created_at": 1568445624,
+                "name": "The Scarlet King"
+            },
+            "347588059539177482": {
+                "balance": 38346,
+                "created_at": 1568446428,
+                "name": "**Big Pipe**"
+            },
+            "446310592425361418": {
+                "balance": 3754086,
+                "created_at": 1568454198,
+                "name": "ks123"
+            },
+            "424153342609195008": {
+                "balance": 36284,
+                "created_at": 1568462008,
+                "name": "Ashy"
+            },
+            "524048345233358858": {
+                "balance": 2393,
+                "created_at": 1568467287,
+                "name": "Distortion"
+            },
+            "302178158260781056": {
+                "balance": 1937853,
+                "created_at": 1568483800,
+                "name": "Freezing Testicles"
+            },
+            "525834328241078272": {
+                "balance": 1332342,
+                "created_at": 1568485015,
+                "name": "Havoc Viper"
+            },
+            "427953242278854657": {
+                "balance": 675505,
+                "created_at": 1568485108,
+                "name": "Freezing Testicles"
+            },
+            "555535597989527573": {
+                "balance": 673054,
+                "created_at": 1568490140,
+                "name": "10 Sense Record"
+            },
+            "175490626698084352": {
+                "balance": 2708,
+                "created_at": 1568491409,
+                "name": "[cody]"
+            },
+            "413438573107216405": {
+                "balance": 198179,
+                "created_at": 1568492936,
+                "name": "\u26a1EpicSparks7\u26a1"
+            },
+            "262870246442926080": {
+                "balance": 22823,
+                "created_at": 1568493384,
+                "name": "\u02dc\u201d\u00b0\u2022 Jim_Mich \u2022\u00b0\u201d\u02dc"
+            },
+            "334068233084862476": {
+                "balance": 151537,
+                "created_at": 1568503155,
+                "name": "\ud83d\udc09\u00d0\u1d19\u1d8f\u029b\u00f8\u0273$\u1d75\u00f8\u0280\u0271\u26a1"
+            },
+            "494616649945579522": {
+                "balance": 37663,
+                "created_at": 1568510600,
+                "name": "Kokichi Oma"
+            },
+            "546838119077511190": {
+                "balance": 966345,
+                "created_at": 1568510753,
+                "name": "Grandpa"
+            },
+            "545660748987105291": {
+                "balance": 172486,
+                "created_at": 1568510768,
+                "name": "Lord_Mew"
+            },
+            "529433630934695937": {
+                "balance": 799903,
+                "created_at": 1568510896,
+                "name": "Rylan"
+            },
+            "579788000188301331": {
+                "balance": 7298,
+                "created_at": 1568512451,
+                "name": "Depression is amazing"
+            },
+            "622536653801521154": {
+                "balance": 2160,
+                "created_at": 1568518522,
+                "name": "Violet"
+            },
+            "345644960994820096": {
+                "balance": 114090,
+                "created_at": 1568519444,
+                "name": "Bubble"
+            },
+            "515894570844684298": {
+                "balance": 75636,
+                "created_at": 1568523100,
+                "name": "\ud83d\udf03-Delton-\ud83d\udf1d"
+            },
+            "264958555784871936": {
+                "balance": 4306,
+                "created_at": 1568529667,
+                "name": "SylveonSinOfGluttony"
+            },
+            "375734722980216834": {
+                "balance": 15799,
+                "created_at": 1568536671,
+                "name": "sarwat"
+            },
+            "494262558987911183": {
+                "balance": 14746,
+                "created_at": 1568588645,
+                "name": "IDK (Noob) .....(\u0561\u0268\u025b\u057c\u025b\u0280 \u026e\u0280\u0268\u0262\u01df\u0256\u025b)"
+            },
+            "515912642133491712": {
+                "balance": 54848,
+                "created_at": 1568593935,
+                "name": "\u0198\u0251\u0197\u025b"
+            },
+            "473974336219381770": {
+                "balance": 12536,
+                "created_at": 1568594497,
+                "name": "FUARTH\u00c1IN"
+            },
+            "530876772770906152": {
+                "balance": 107946,
+                "created_at": 1568597348,
+                "name": "\u20ae\u20a9\u0142\u20b4\u20ae\u0246\u0110"
+            },
+            "507663769946685440": {
+                "balance": 3799,
+                "created_at": 1568717405,
+                "name": "BambiXerneas67"
+            },
+            "489933625375064067": {
+                "balance": 110279,
+                "created_at": 1568769436,
+                "name": "Murkiinz"
+            },
+            "539939853966639114": {
+                "balance": 45933,
+                "created_at": 1568783768,
+                "name": "Devil!Reaper Sans"
+            },
+            "347852110894989323": {
+                "balance": 94465,
+                "created_at": 1568788955,
+                "name": "violetcash62656"
+            },
+            "605479037082796033": {
+                "balance": 3765,
+                "created_at": 1568791893,
+                "name": "deku"
+            },
+            "417317722901315584": {
+                "balance": 104121,
+                "created_at": 1568868525,
+                "name": "Bats1101"
+            },
+            "597901801978724373": {
+                "balance": 3728,
+                "created_at": 1568912697,
+                "name": "(\u2022)~FandomDevnic~(\u2022)"
+            },
+            "394259872193052694": {
+                "balance": 2850,
+                "created_at": 1568924634,
+                "name": "Sicko2552"
+            },
+            "514757881673809921": {
+                "balance": 0,
+                "created_at": 1568937883,
+                "name": "Vxn"
+            },
+            "468236297060745227": {
+                "balance": 3006,
+                "created_at": 1568996441,
+                "name": "MaZe_kitsune"
+            },
+            "590538958287536129": {
+                "balance": 2850,
+                "created_at": 1569088564,
+                "name": "olala"
+            },
+            "556212604075507713": {
+                "balance": 2850,
+                "created_at": 1569192757,
+                "name": "future treecko boi"
+            },
+            "548736290687025183": {
+                "balance": 1412,
+                "created_at": 1569249189,
+                "name": "channel69news"
+            },
+            "497795318054912010": {
+                "balance": 3014,
+                "created_at": 1569250050,
+                "name": "||MgZedex (Luminosity)||"
+            },
+            "262250792528904192": {
+                "balance": 3450,
+                "created_at": 1569299606,
+                "name": "Holy Bird"
+            },
+            "550370924772196363": {
+                "balance": 2005,
+                "created_at": 1569634805,
+                "name": "Gemega"
+            },
+            "200832678927400960": {
+                "balance": 2850,
+                "created_at": 1569661374,
+                "name": "GartacusTheBold"
+            },
+            "585080305594138634": {
+                "balance": 6600,
+                "created_at": 1569874327,
+                "name": "Wally (FearlessDaShipper)"
+            },
+            "364354548032077834": {
+                "balance": 0,
+                "created_at": 1569874941,
+                "name": "xd ToxicZ"
+            },
+            "172194920772272128": {
+                "balance": 5250,
+                "created_at": 1570138306,
+                "name": "Payday (JadeCoffee)"
+            },
+            "471708133215961108": {
+                "balance": 2850,
+                "created_at": 1570485642,
+                "name": "T0LK1N"
+            }
+        }
+    }
+}

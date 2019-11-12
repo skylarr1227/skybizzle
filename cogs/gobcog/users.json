@@ -1,0 +1,162 @@
+{
+    "409149408681263104": {
+        "att": 0,
+        "buffs": {},
+        "cha": 0,
+        "class": {
+            "ability": false,
+            "desc": "Your basic adventuring hero.",
+            "name": "Hero"
+        },
+        "consumables": {},
+        "exp": 0,
+        "items": {
+            "backpack": {},
+            "charm": {},
+            "left": {},
+            "right": {},
+            "ring": {}
+        },
+        "lvl": 1,
+        "name": "DR.420",
+        "skill": {
+            "att": 0,
+            "cha": 0,
+            "pool": 0
+        },
+        "treasure": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "413438573107216405": {
+        "att": 0,
+        "buffs": {},
+        "cha": 0,
+        "class": {
+            "ability": false,
+            "desc": "Your basic adventuring hero.",
+            "name": "Hero"
+        },
+        "consumables": {},
+        "exp": 0,
+        "items": {
+            "backpack": {},
+            "charm": {},
+            "left": {},
+            "right": {},
+            "ring": {}
+        },
+        "lvl": 1,
+        "name": "\u26a1EpicSparks7\u26a1",
+        "skill": {
+            "att": 0,
+            "cha": 0,
+            "pool": 0
+        },
+        "treasure": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "462416556853559306": {
+        "att": 0,
+        "buffs": {},
+        "cha": 0,
+        "class": {
+            "ability": false,
+            "desc": "Your basic adventuring hero.",
+            "name": "Hero"
+        },
+        "consumables": {},
+        "exp": 0,
+        "items": {
+            "backpack": {},
+            "charm": {},
+            "left": {},
+            "right": {},
+            "ring": {}
+        },
+        "lvl": 1,
+        "name": "kungfuartist",
+        "skill": {
+            "att": 0,
+            "cha": 0,
+            "pool": 0
+        },
+        "treasure": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "474104220770107392": {
+        "att": 0,
+        "buffs": {},
+        "cha": 0,
+        "class": {
+            "ability": false,
+            "desc": "Your basic adventuring hero.",
+            "name": "Hero"
+        },
+        "consumables": {},
+        "exp": 0,
+        "items": {
+            "backpack": {},
+            "charm": {},
+            "left": {},
+            "right": {},
+            "ring": {}
+        },
+        "lvl": 1,
+        "name": "Skyy",
+        "skill": {
+            "att": 0,
+            "cha": 0,
+            "pool": 0
+        },
+        "treasure": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "583751544739069963": {
+        "att": 0,
+        "buffs": {},
+        "cha": 0,
+        "class": {
+            "ability": false,
+            "desc": "Your basic adventuring hero.",
+            "name": "Hero"
+        },
+        "consumables": {},
+        "exp": 0,
+        "items": {
+            "backpack": {},
+            "charm": {},
+            "left": {},
+            "right": {},
+            "ring": {}
+        },
+        "lvl": 1,
+        "name": "kittypride3",
+        "skill": {
+            "att": 0,
+            "cha": 0,
+            "pool": 0
+        },
+        "treasure": [
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}

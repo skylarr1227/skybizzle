@@ -1,0 +1,311 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-05-14 12:22+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: redgettext 2.2\n"
+
+
+msgid "%d.%m.%Y %H:%M:%S %Z"
+msgstr ""
+
+msgid "Get info about any Discord's user by ID"
+msgstr ""
+
+msgid "Discord user with ID `{}` not found"
+msgstr ""
+
+msgid "I was unable to get data about user with ID `{}`. Try again later"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Bot?"
+msgstr ""
+
+msgid "Mention"
+msgstr ""
+
+msgid "Default avatar"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Created at"
+msgstr ""
+
+msgid "Information on a user"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Joined server"
+msgstr ""
+
+msgid "Has existed since"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Server permissions"
+msgstr ""
+
+msgid "Roles"
+msgstr ""
+
+msgid "Shows server information"
+msgstr ""
+
+msgid "Failed to get server with provided ID"
+msgstr ""
+
+msgid "Server info"
+msgstr ""
+
+msgid "Server ID"
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "Existed since"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "AFK Timeout and Channel"
+msgstr ""
+
+msgid "{} min in {}"
+msgstr ""
+
+msgid "New member messages channel"
+msgstr ""
+
+msgid "Verification level"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "(╯°□°）╯︵ ┻━┻"
+msgstr ""
+
+msgid "┻━┻ ﾐヽ(ಠ益ಠ)ノ彡┻━┻"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Explicit content filter"
+msgstr ""
+
+msgid "Don't scan any messages."
+msgstr ""
+
+msgid "Scan messages from members without a role."
+msgstr ""
+
+msgid "Scan messages sent by all members."
+msgstr ""
+
+msgid "Default notifications"
+msgstr ""
+
+msgid "All messages"
+msgstr ""
+
+msgid "Only @mentions"
+msgstr ""
+
+msgid "2FA admins"
+msgstr ""
+
+msgid "Member Count"
+msgstr ""
+
+msgid "Role Count"
+msgstr ""
+
+msgid "Channel Count"
+msgstr ""
+
+msgid "VIP Voice Regions"
+msgstr ""
+
+msgid "Vanity URL"
+msgstr ""
+
+msgid "Verified"
+msgstr ""
+
+msgid "Extended emoji limit"
+msgstr ""
+
+msgid "Invite Splash"
+msgstr ""
+
+msgid "Banner"
+msgstr ""
+
+msgid "Get bans from server by id"
+msgstr ""
+
+msgid "I need permission \"Ban Members\" to access banned members on server"
+msgstr ""
+
+msgid "Banlist is empty!"
+msgstr ""
+
+msgid "Get invites from server by id"
+msgstr ""
+
+msgid "I need permission \"Manage Server\" to access list of invites on server"
+msgstr ""
+
+msgid "There is no invites for this server"
+msgstr ""
+
+msgid "Get info about channel"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Not in category"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Changed roles permissions"
+msgstr ""
+
+msgid "Not set"
+msgstr ""
+
+msgid "Slowmode delay"
+msgstr ""
+
+msgid "{} seconds"
+msgstr ""
+
+msgid "NSFW"
+msgstr ""
+
+msgid "Webhooks count"
+msgstr ""
+
+msgid "Bitrate"
+msgstr ""
+
+msgid "{}kbps"
+msgstr ""
+
+msgid "Get all channels on server"
+msgstr ""
+
+msgid "No categories"
+msgstr ""
+
+msgid "No text channels"
+msgstr ""
+
+msgid "No voice channels"
+msgstr ""
+
+msgid "Channels list"
+msgstr ""
+
+msgid "Categories:"
+msgstr ""
+
+msgid "Text channels:"
+msgstr ""
+
+msgid "Voice channels:"
+msgstr ""
+
+msgid "Total count of channels: {} • Categories: {} • Text Channels: {} • Voice Channels: {}"
+msgstr ""
+
+msgid "Get info about role"
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Hoist"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Managed"
+msgstr ""
+
+msgid "Mentionable"
+msgstr ""
+
+msgid "Get list of members that has provided role"
+msgstr ""
+
+msgid "There is no members in this role"
+msgstr ""
+
+msgid "Page {}/{}"
+msgstr ""
+
+msgid "Get all roles on server"
+msgstr ""
+
+msgid "Check user's permission for current or provided channel"
+msgstr ""
+
+msgid "Get info about emoji"
+msgstr ""
+
+msgid "Animated"
+msgstr ""
+
+msgid "\":\" required"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Custom emoji"
+msgstr ""
+
+msgid "Unicode emoji"
+msgstr ""
+

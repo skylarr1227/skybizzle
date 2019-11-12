@@ -1,0 +1,30 @@
+{
+    "5155131962639501806960131396444130342877251382834976335700036758594288654115832971990270330915833149378235417911406813698660285259704726965084439921710577": {
+        "GUILD": {
+            "599692457709666363": {
+                "google_auth": {
+                    "client_id": "1050252689472-u5earuduqm7pdohmbiqanolaf7621pj9.apps.googleusercontent.com",
+                    "client_secret": "guFL8aoT-NYh0_uoMJ1LkhEw",
+                    "redirect_uri": "https://localhost/gp_auth"
+                },
+                "google_maps": {
+                    "599692457709666373": "discord"
+                }
+            },
+            "591691796824719390": {
+                "google_auth": {
+                    "client_id": "1050252689472-u5earuduqm7pdohmbiqanolaf7621pj9.apps.googleusercontent.com",
+                    "client_secret": "guFL8aoT-NYh0_uoMJ1LkhEw",
+                    "redirect_uri": "https://pokepla.net",
+                    "access_token": "ya29.GltGB3v41kop5JAQtogwgtWnszA3Qnae56dpxKqgIbBo2PQC1LPHpsje4lVKQcDzFIqOjhSxs4M-R65mL7jpEM2bdy-R3BOAbzjR_YcovH6swaFk6hlz3H1ckDmU",
+                    "expires_in": 3600,
+                    "refresh_token": "1/IfustsPZ3t6H1giAeEOqjMQf0Kcmap_bK5gfBDT5RKI",
+                    "scope": "https://www.googleapis.com/auth/photoslibrary.sharing https://www.googleapis.com/auth/photoslibrary https://www.googleapis.com/auth/photoslibrary.readonly.appcreateddata",
+                    "token_type": "Bearer",
+                    "expires": "2019-07-15T11:58:23Z"
+                }
+            }
+        },
+        "GLOBAL": {}
+    }
+}

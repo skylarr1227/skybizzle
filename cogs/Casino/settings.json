@@ -1,0 +1,250 @@
+{
+    "5074395001": {
+        "USER": {
+            "474104220770107392": {
+                "Cooldowns": {
+                    "Blackjack": 1565177756,
+                    "Double": 1564962246,
+                    "Allin": 1564385796,
+                    "Coin": 1564630248,
+                    "Craps": 1564962230,
+                    "Cups": 1564700749,
+                    "War": 1564700792
+                },
+                "Played": {
+                    "Blackjack": 139,
+                    "Double": 17,
+                    "Allin": 2,
+                    "Coin": 3,
+                    "Craps": 6,
+                    "Cups": 1,
+                    "War": 1
+                },
+                "Won": {
+                    "Blackjack": 57,
+                    "Coin": 1,
+                    "Craps": 2,
+                    "Cups": 1,
+                    "War": 1
+                }
+            },
+            "304702698580738048": {
+                "Cooldowns": {
+                    "Blackjack": 1565274862,
+                    "Allin": 1564385857,
+                    "Double": 1564699942,
+                    "Coin": 1564348934,
+                    "Craps": 1565206174,
+                    "Cups": 1564700789,
+                    "War": 1564700798
+                },
+                "Played": {
+                    "Blackjack": 94,
+                    "Allin": 1,
+                    "Double": 4,
+                    "Coin": 1,
+                    "Craps": 8,
+                    "Cups": 2,
+                    "War": 1
+                },
+                "Won": {
+                    "Blackjack": 41,
+                    "Coin": 1,
+                    "Double": 1,
+                    "Craps": 3,
+                    "War": 1
+                }
+            },
+            "515198718887067658": {
+                "Cooldowns": {
+                    "Blackjack": 1564511552
+                },
+                "Played": {
+                    "Blackjack": 1
+                },
+                "Won": {
+                    "Blackjack": 1
+                }
+            },
+            "383105414171983875": {
+                "Cooldowns": {
+                    "Blackjack": 1565135938
+                },
+                "Played": {
+                    "Blackjack": 6
+                },
+                "Won": {
+                    "Blackjack": 1
+                }
+            },
+            "364242703275261953": {
+                "Cooldowns": {
+                    "Blackjack": 1565703395,
+                    "Coin": 1564630310,
+                    "Craps": 1564700902
+                },
+                "Played": {
+                    "Blackjack": 404,
+                    "Coin": 3,
+                    "Craps": 8
+                },
+                "Won": {
+                    "Blackjack": 195,
+                    "Coin": 1,
+                    "Craps": 2
+                }
+            },
+            "583751544739069963": {
+                "Cooldowns": {
+                    "Blackjack": 1565755202
+                },
+                "Played": {
+                    "Blackjack": 144
+                },
+                "Won": {
+                    "Blackjack": 64
+                }
+            },
+            "525697999821602848": {
+                "Cooldowns": {
+                    "Blackjack": 1565212292
+                },
+                "Played": {
+                    "Blackjack": 15
+                },
+                "Won": {
+                    "Blackjack": 3
+                }
+            },
+            "590322888133836801": {
+                "Cooldowns": {
+                    "Blackjack": 1565203472
+                },
+                "Played": {
+                    "Blackjack": 13
+                },
+                "Won": {
+                    "Blackjack": 7
+                }
+            },
+            "536185164020187148": {
+                "Cooldowns": {
+                    "Blackjack": 1565212506
+                },
+                "Played": {
+                    "Blackjack": 2
+                }
+            },
+            "412911697322573835": {
+                "Cooldowns": {
+                    "Blackjack": 1565359554
+                },
+                "Played": {
+                    "Blackjack": 64
+                },
+                "Won": {
+                    "Blackjack": 22
+                }
+            },
+            "349369364014956544": {
+                "Cooldowns": {
+                    "Craps": 1565241687,
+                    "Blackjack": 1565636699
+                },
+                "Played": {
+                    "Craps": 11,
+                    "Blackjack": 408
+                },
+                "Won": {
+                    "Craps": 2,
+                    "Blackjack": 189
+                }
+            },
+            "441612315759083533": {
+                "Cooldowns": {
+                    "Blackjack": 1565656938,
+                    "Cups": 1565655568,
+                    "Hilo": 1565655653
+                },
+                "Played": {
+                    "Blackjack": 24,
+                    "Cups": 4,
+                    "Hilo": 1
+                },
+                "Won": {
+                    "Blackjack": 10,
+                    "Cups": 1
+                }
+            },
+            "462416556853559306": {
+                "Cooldowns": {
+                    "Blackjack": 1565930826,
+                    "Double": 1565311818,
+                    "Allin": 1565419890
+                },
+                "Played": {
+                    "Blackjack": 23,
+                    "Double": 2,
+                    "Allin": 1
+                },
+                "Won": {
+                    "Blackjack": 12
+                }
+            },
+            "414441909520433155": {
+                "Cooldowns": {
+                    "Blackjack": 1565755324
+                },
+                "Played": {
+                    "Blackjack": 6
+                },
+                "Won": {
+                    "Blackjack": 3
+                }
+            },
+            "525834328241078272": {
+                "Cooldowns": {
+                    "Blackjack": 1569703844,
+                    "Allin": 1570344170
+                },
+                "Played": {
+                    "Blackjack": 1,
+                    "Allin": 1
+                }
+            },
+            "347588059539177482": {
+                "Cooldowns": {
+                    "Allin": 1569808083
+                },
+                "Played": {
+                    "Allin": 1
+                }
+            },
+            "530876772770906152": {
+                "Cooldowns": {
+                    "Allin": 1569929179
+                },
+                "Played": {
+                    "Allin": 1
+                }
+            }
+        },
+        "GLOBAL": {
+            "Games": {
+                "Blackjack": {
+                    "Max": 500,
+                    "Multiplier": 3.0
+                },
+                "Coin": {
+                    "Max": 50
+                },
+                "Craps": {
+                    "Max": 100
+                }
+            },
+            "Settings": {
+                "Casino_Name": "Skybot's Game Corner"
+            }
+        }
+    }
+}
